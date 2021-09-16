@@ -1,0 +1,24 @@
+{
+  "name": "girlscript-summit",
+  "version": "1.0.0",
+  "description": "GilScript India Summit Website",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "build": "npm run build:css && npm run build:js && hugo --gc --minify",
+    "build:js": "./node_modules/.bin/webpack --mode production --progress --hide-modules",
+    "build:css": "./node_modules/.bin/postcss ./src/css/style.css -o ./static/css/style.css",
+    "dev:start": "hugo serve",
+    "dev:build:js": "./node_modules/.bin/webpack --mode development --progress --hide-modules --watch"
+  },
+  "license": "ISC",
+  "devDependencies": {
+    "css-loader": "^3.6.0",
+    "cssnano": "^4.1.10",
+    "node-sass": "^6.0.1",
+    "postcss-cli": "^7.1.1",
+    "style-loader": "^1.2.1",
+    "webpack": "^5.52.1",
+    "webpack-cli": "^3.3.12"
+  },
+  "dependencies": {}
+}

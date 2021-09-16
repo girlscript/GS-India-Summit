@@ -1,0 +1,9 @@
+[build]
+publish = "public"
+command = "npm ci && npm run build"
+
+[context.production.environment]
+HUGO_VERSION = "0.74.1"
+HUGO_ENV = "production"
+HUGO_ENABLEGITINFO = "true"
+NPM_VERSION = "6.14.4"
