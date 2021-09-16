@@ -1,0 +1,23 @@
+{
+  "heading": "Testimonial",
+  "list": [
+    {
+      "name": "— Ashvini Tarale",
+      "position": "QA Engineer",
+      "image": "ashvini.jpg",
+      "text": "“The GirlScript India Summit 2018 was packed with great speakers, valuable information, and many learning opportunities for beginners in technology.”"
+    },
+    {
+      "name": "— Vibhor Bhaise",
+      "position": "IIM Udaipur",
+      "image": "vibhor.jpeg",
+      "text": "“I have volunteered at GirlScript India Summit last year and I loved the exprience. People at the foundation are really helpful and caring. Thank you so much for letting me be a part of it.”"
+    },
+    {
+      "name": "— Abhishek Kumar",
+      "position": "Nagpur University",
+      "image": "abhishek.jpeg",
+      "text": "“GirlScript India Summit was an amazing experience. They help everyone from tier-two and tier-three cities to get into tech & programming. I loved it!.”"
+    }
+  ]
+}

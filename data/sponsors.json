@@ -1,0 +1,48 @@
+{
+  "sponsorHeading": "Past Sponsors",
+  "link": "https://docs.google.com/forms/d/e/1FAIpQLScOj23jR4LbtNTzYH1cn9lq-Z4L6Zx5JmS_w7iREF3btAyaqg/viewform",
+  "list": [
+    {
+      "name": "Microsoft",
+      "image": "microsoft.png",
+      "text": "Title Sponsor-Hackathon",
+      "imageWidth": "300"
+    },
+    {
+      "name": "HCL",
+      "image": "HCL-Technologies-Logo.jpg",
+      "text": "Title Sponsor-Hackathon",
+      "imageWidth": "300"
+    },
+    {
+      "name": "Linode",
+      "image": "linode_png.png",
+      "text": "Silver Sponsor",
+      "imageWidth": "300"
+    },
+    {
+      "name": "Gojek",
+      "image": "gojek_just.png",
+      "text": "Bronze Sponsor",
+      "imageWidth": "300"
+    },
+    {
+      "name": "Buildkite",
+      "image": "buildkite.png",
+      "text": "Bronze Sponsor",
+      "imageWidth": "120"
+    },
+    {
+      "name": "Elastic",
+      "image": "elastic_white_new.png",
+      "text": "Bronze Sponsor",
+      "imageWidth": "300"
+    },
+    {
+      "name": "Hasura",
+      "image": "hasura_final1.svg",
+      "text": "Bronze Sponsor",
+      "imageWidth": "500"
+    }
+  ]
+}

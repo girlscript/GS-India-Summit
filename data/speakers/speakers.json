@@ -1,0 +1,88 @@
+{"heading": "Meet Our Past Speakers",
+  "list": [
+    {
+      "name": "Tanay Pratap",
+      "position": "Engineer & Tech Influencer",
+      "company": "MICROSOFT",
+      "image": "tanay.jpg"
+    },
+    {
+      "name": "Sairee Chahal",
+      "position": "FOUNDER SHEROES",
+      "company": "BOARD MEMBER PAYTM",
+      "image": "person_1 (1).jpg",
+      "twitter": "#",
+      "facebook": "#",
+      "instagram": "#"
+    },
+    {
+      "name": "Shashank Randev",
+      "position": "INDIAN CHAMBER OF COMMERCE & INVESTOR",
+      "company": "100X.VC",
+      "image": "person_2.png",
+      "twitter": "#",
+      "facebook": "#",
+      "instagram": "#"
+    },
+    {
+      "name": "Ayush Jaiswal",
+      "position": "Web Developer",
+      "company": "SHEROES",
+      "image": "person_4.jpeg",
+      "twitter": "#",
+      "facebook": "#",
+      "instagram": "#"
+    },
+    {
+      "name": "Aravind Putrevu",
+      "position": "Developer Advocate",
+      "company": "ELASTIC",
+      "image": "aravind.jpeg"
+    },
+    {
+      "name": "Jyotsna Gupta",
+      "position": "Tech Speaker",
+      "company": "MOZILLA",
+      "image": "joty.jpg"
+    },
+    {
+      "name": "Nikhitha C.",
+      "position": "CEO & Co-Founder",
+      "company": "SOCIETY FOR SPACE EDUCATION",
+      "image": "nikhitha.jpeg"
+    },
+    {
+      "name": "Akshita Aggarwal",
+      "position": "Lead Organizer",
+      "company": "GIRLSCRIPT SUMMER OF CODE 2018 & 2019",
+      "image": "akshita.jpeg"
+    },
+    {
+      "name": "Gaurang Shetty",
+      "position": "FOUNDER MAKER MELA & CEO",
+      "company": "RIIDL",
+      "image": "person_6.jpeg",
+      "twitter": "#",
+      "facebook": "#",
+      "instagram": "#"
+    },
+    {
+      "name": "Anuj Duggal",
+      "position": "Innovation Program Manager",
+      "company": "INTEL INDIA",
+      "image": "Anuj Duggal.jpeg"
+    },
+    {
+      "name": "Saptrishi Prakash",
+      "position": "Product Design Manager",
+      "company": "SWIGGY",
+      "image": "Saptrishi Prakash.jpeg"
+    },
+    {
+      "name": "Gourav Sharma",
+      "position": "Training Consultant",
+      "company": "REDHAT",
+      "image": "gourav.jpg"
+    }
+  ]
+}

@@ -1,0 +1,260 @@
+{
+  "heading": "Present Speakers",
+  "list": [
+    {
+      "name": "Tanay Pratap",
+      "position": "Engineer & Tech Influencer",
+      "company": "MICROSOFT",
+      "image": "tanay.jpg",
+      "twitter": "#",
+      "facebook": "#",
+      "instagram": "#"
+    },
+    {
+      "name": "Sairee Chahal",
+      "position": "FOUNDER SHEROES",
+      "company": "BOARD MEMBER PAYTM",
+      "image": "person_1 (1).jpg",
+      "twitter": "#",
+      "facebook": "#",
+      "instagram": "#"
+    },
+    {
+      "name": "Shashank Randev",
+      "position": "INDIAN CHAMBER OF COMMERCE & INVESTOR",
+      "company": "100X.VC",
+      "image": "person_2.png",
+      "twitter": "#",
+      "facebook": "#",
+      "instagram": "#"
+    },
+    {
+      "name": "Ayush Jaiswal",
+      "position": "Web Developer",
+      "company": "SHEROES",
+      "image": "person_4.jpeg",
+      "twitter": "#",
+      "facebook": "#",
+      "instagram": "#"
+    },
+    {
+      "name": "Aravind Putrevu",
+      "position": "Developer Advocate",
+      "company": "ELASTIC",
+      "image": "aravind.jpeg"
+    },
+    {
+      "name": "Jyotsna Gupta",
+      "position": "Tech Speaker",
+      "company": "MOZILLA",
+      "image": "joty.jpg"
+    },
+    {
+      "name": "Nikhitha C.",
+      "position": "CEO & Co-Founder",
+      "company": "SOCIETY FOR SPACE EDUCATION",
+      "image": "nikhitha.jpeg"
+    },
+    {
+      "name": "Akshita Aggarwal",
+      "position": "Lead Organizer",
+      "company": "GIRLSCRIPT SUMMER OF CODE 2018 & 2019",
+      "image": "akshita.jpeg"
+    },
+    {
+      "name": "Gaurang Shetty",
+      "position": "FOUNDER MAKER MELA & CEO",
+      "company": "RIIDL",
+      "image": "person_6.jpeg",
+      "twitter": "#",
+      "facebook": "#",
+      "instagram": "#"
+    },
+    {
+      "name": "Anuj Duggal",
+      "position": "Innovation Program Manager",
+      "company": "INTEL INDIA",
+      "image": "Anuj Duggal.jpeg"
+    },
+    {
+      "name": "Saptarshi Prakash",
+      "position": "Product Design Manager",
+      "company": "SWIGGY",
+      "image": "Saptrishi Prakash.jpeg"
+    },
+    {
+      "name": "Gourav Sharma",
+      "position": "Training Consultant",
+      "company": "REDHAT",
+      "image": "gourav.jpg"
+    },
+    {
+      "name": "Saurabh Jain",
+      "position": "VICE PRESIDENT",
+      "company": "Paytm",
+      "image": "saurabh-paytm.jpg",
+      "linkedIn": "https://www.linkedin.com/in/saurabhskj/",
+      "twitter": "https://twitter.com/skjsaurabh"
+    },
+    {
+      "name": "Priyadeep Sinha",
+      "position": "FOUNDER & FORM CEO",
+      "company": "KIDOVATORS, VICE PRESIDENT GAME",
+      "image": "priydeep.jpg",
+      "twitter": "https://twitter.com/PriyadeepSinha",
+      "linkedIn": "https://www.linkedin.com/in/priyadeep-sinha"
+    },
+    {
+      "name": "Gaurav Chandak",
+      "position": "CO-FOUNDER",
+      "company": "WORKATTECH, EX - MICROSOFT & FLIPKART",
+      "image": "chandak.jpeg",
+      "twitter": "https://twitter.com/gc_nit",
+      "linkedIn": "https://www.linkedin.com/in/gcnit"
+    },
+    {
+      "name": "Deepanjali Sarna",
+      "position": "TECHNICAL GAME ARTIST, INTERN",
+      "company": "GSN GAMES, INDIA",
+      "image": "deepanjali.jpeg",
+      "linkedIn": "https://www.linkedin.com/in/deepanjali-sarna-b5aa8b174",
+      "twitter": "https://twitter.com/deepanjalisarna"
+    },
+    {
+      "name": "Ms. Suchismitra Sen Basu",
+      "position": "FOUNDER",
+      "company": "LITTLE PAPILLONS",
+      "image": "suchismitra.jpeg",
+      "linkedIn": "https://www.linkedin.com/in/suchi-sen-basu",
+      "facebook": "https://facebook.com/pg/suchissenbasu"
+    },
+    {
+      "name": "Aditya Arora",
+      "position": "CEO",
+      "company": "FAAD NETWORK PVT LTD",
+      "image": "aditya.jpeg",
+      "linkedIn": "https://www.linkedin.com/in/aditya-arora-13ab87105",
+      "twitter": "https://twitter.com/werfaad"
+    },
+    {
+      "name": "Avi Aryan",
+      "position": "SENIOR SOFTWARE ENGINEER",
+      "company": "TOPTAL",
+      "image": "avi.jpeg",
+      "linkedIn": "https://www.linkedin.com/in/aviaryan",
+      "twitter": "https://twitter.com/aviaryan123"
+    },
+    {
+      "name": "Amlan Chakravarty",
+      "position": "SENIOR LEAD BUSINESS ANALYTICS & RESEARCH",
+      "company": "FIDELITY INVESTMENTS",
+      "image": "amlan.jpg",
+      "linkedIn": "https://www.linkedin.com/in/amlanchakravarty",
+      "twitter": "https://twitter.com/amlanchak29"
+    },
+    {
+      "name": "Shashank Mishra",
+      "position": "DATA ENGINEER",
+      "company": "AMAZON",
+      "image": "shashank.jpg",
+      "linkedIn": "https://www.linkedin.com/in/shashank219",
+      "twitter": "https://twitter.com/Shashan80573621"
+    },
+    {
+      "name": "Prajith Kesava Prasad",
+      "position": "Associate Software Engineer",
+      "company": "Redhat",
+      "image": "prajith-redhat.jpg",
+      "linkedIn": "https://www.linkedin.com/in/prajith-kesava-prasad-ab9544107",
+      "twitter": "https://twitter.com/PrajithKPrasad"
+    },
+    {
+      "name": "Ayon Roy",
+      "position": "Organizer",
+      "company": "Kaggle Days Meet-up (Delhi, NCR)",
+      "image": "ayon-kaggle.jpg",
+      "linkedIn": "https://www.linkedin.com/in/ayonroy2000",
+      "website": "https://ayonroy.ml/"
+    },
+    {
+      "name": "Abhishek Maurya",
+      "position": "Cloud Products Associate",
+      "company": "Whizlabs",
+      "image": "abhishek-tcs.jpeg",
+      "linkedIn": "https://www.linkedin.com/in/abhitnc",
+      "twitter": "https://twitter.com/abhitnc"
+    },
+    {
+      "name": "Gajendra Deshpande",
+      "position": "Chapter Lead",
+      "company": "PyData & OWASP (Belagavi)",
+      "image": "gajendra-pydata.jpg",
+      "linkedIn": "https://www.linkedin.com/in/gajendradeshpande/",
+      "twitter": "https://twitter.com/gcdeshpande"
+    },
+    {
+      "name": "Anustup Mukherjee",
+      "position": "Lead ML Engineer",
+      "company": "Omdena",
+      "image": "anustup-omdena.jpg",
+      "linkedIn": "https://www.linkedin.com/in/anustupmukherjee/",
+      "twitter": "https://twitter.com/AnustupMukherj8"
+    },
+    {
+      "name": "Laisha Wadhwa",
+      "position": "Data Engineer",
+      "company": "Couture.ai",
+      "image": "laisha-couture.jpg",
+      "linkedIn": "https://www.linkedin.com/in/laisha-wadhwa/",
+      "twitter": "https://twitter.com/laishawadhwa"
+    },
+    {
+      "name": "Dhairya Gangwani",
+      "position": "Mentor",
+      "company": "YAY",
+      "image": "dhairya-yay.jpg",
+      "linkedIn": "https://www.linkedin.com/in/dhairya-gangwani/",
+      "website": "https://www.dhairyadecodes.com/"
+    },
+    {
+      "name": "Jayesh Ahire",
+      "position": "Founding Engineer",
+      "company": "traceable.ai",
+      "image": "jayesh-traceable.jpg",
+      "linkedIn": "https://www.linkedin.com/in/jayesh-ahire/",
+      "twitter": "https://twitter.com/Jayesh_Ahire1"
+    },
+    {
+      "name": "Preethi Guruswamy",
+      "position": "Engineering Leader",
+      "image": "preethi-intuit.jpg",
+      "company": "Intuit",
+      "twitter": "https://twitter.com/pguru09",
+      "linkedIn": "https://www.linkedin.com/in/preethiguruswamy"
+    },
+    {
+      "name": "Hrishikesh Suslade",
+      "position": "Software Development Engineer",
+      "image": "hrishikesh-amazon.jpg",
+      "company": "Amazon",
+      "twitter": "https://twitter.com/HrishiSuslade",
+      "linkedIn": "https://www.linkedin.com/in/hrishikesh-suslade"
+    },
+    {
+      "name": "Divya Vaishnavi",
+      "position": "Director Product",
+      "company": "github",
+      "image": "divya-github.jpg",
+      "linkedIn": "https://www.linkedin.com/in/divya-vaishnavi-4827911b",
+      "twitter": "https://twitter.com/divyavaishnavi"
+    },
+    {
+      "name": "Dr. Shruti Nair",
+      "position": "Director",
+      "company": "Youth Years, South Asia, Ashoka Innovators for the Public",
+      "image": "shruti-nair.jpg",
+      "linkedIn": "https://www.linkedin.com/in/shrutisn",
+      "twitter": "https://twitter.com/ShrutiN"
+    }
+  ]
+}

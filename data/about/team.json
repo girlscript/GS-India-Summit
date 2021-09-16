@@ -1,0 +1,166 @@
+{
+  "heading": "Our Team",
+  "list": [
+    {
+      "image": "anubha.jpg",
+      "author": "Anubha Maneshwar",
+      "position": "Founder & CEO",
+      "linkedin": "https://www.linkedin.com/in/anubhamane/",
+      "twitter": "https://twitter.com/anubhamane"
+    },
+    {
+      "image": "mohit-230x230.jpg",
+      "author": "Mohit Varu",
+      "position": "Chief Operating Officer",
+      "linkedin": "https://www.linkedin.com/in/mohit-varu-0ba100115/",
+      "twitter": "https://twitter.com/VaruMohit"
+    },
+    {
+      "image": "Tejasi.jpg",
+      "author": "Tejasi Mangale",
+      "position": "Program Manager",
+      "linkedin": "https://www.linkedin.com/in/tejasi-mangale-15a0821a9/",
+      "twitter": "#"
+    },
+    {
+      "image": "ayesha_pm.jpg",
+      "author": "Ayesha Shaikh",
+      "position": "Program Manager",
+      "linkedin": "https://www.linkedin.com/in/abhishekrnc/",
+      "twitter": "#"
+    },
+    {
+      "image": "Aishwarya Parab.jpg",
+      "author": "Aishwarya Parab",
+      "position": "Management Team",
+      "linkedin": "https://www.linkedin.com/in/aishwaryaparab",
+      "twitter": "#"
+    },
+    {
+      "image": "DheerajGandhi.jpeg",
+      "author": "Dheeraj Gandhi",
+      "position": "Management Team",
+      "linkedin": "https://www.linkedin.com/in/dheeraj-gandhi-3257781b1/",
+      "twitter": "#"
+    },
+    {
+      "image": "Gautamshenoy.jpeg",
+      "author": "Gautam Shenoy",
+      "position": "Management Team",
+      "linkedin": "https://www.linkedin.com/in/gautam-shenoy-32433b145",
+      "twitter": "#"
+    },
+    {
+      "image": "Krupashrikoli.jpg",
+      "author": "Krupashri Koli",
+      "position": "Management Team",
+      "linkedin": "https://www.linkedin.com/in/krupashri-koli-36537559",
+      "twitter": "#"
+    },
+    {
+      "image": "VipulaSail.jpg",
+      "author": "Vipula Sail",
+      "position": "Management Team",
+      "linkedin": "https://www.linkedin.com/in/vipulasail/",
+      "twitter": "#"
+    },
+    {
+      "author": "Arya Soni",
+      "position": "Web Developer",
+      "image": "aryasoni.jpeg",
+      "linkedin": "https://www.linkedin.com/in/aryasoni/",
+      "twitter": "#"
+    },
+    {
+      "author": "Shree Mishra",
+      "position": "Web Developer",
+      "image": "Shree.jpeg",
+      "linkedin": "https://www.linkedin.com/in/shree-mishra-b9868a1a5/",
+      "twitter": "https://twitter.com/mishrashree18"
+    },
+    {
+      "author": "Prerana Pradhan",
+      "position": "Web Developer & Marketing Analyst",
+      "image": "preranapradhan.jpg",
+      "linkedin": "https://www.linkedin.com/in/prerana-pradhan-2481991a0/",
+      "twitter": "#"
+    },
+    {
+      "author": "Manas Gupta",
+      "position": "Marketing Analyst",
+      "image": "manasgupta.jpg",
+      "linkedin": "https://www.linkedin.com/in/cyberbuddy-manas",
+      "twitter": "#"
+    },
+    {
+      "author": "Tanvi Pandit",
+      "position": "Marketing Manager",
+      "image": "tanvipandit.jpeg",
+      "linkedin": "https://www.linkedin.com/in/tanvi-p-86187b1a9",
+      "twitter": "#"
+    },
+    {
+      "image": "Muskan Goyal.jpg",
+      "author": "Muskan Goyal",
+      "position": "Graphic Designer",
+      "linkedin": "https://www.linkedin.com/in/muskan-goyal-1102/",
+      "twitter": "#"
+    },
+    {
+      "author": "Shilpa Jainapur",
+      "position": "Graphic Designer",
+      "image": "Shilpa.jpeg",
+      "linkedin": "https://www.linkedin.com/in/shilpa-jainapur-61b3031a8",
+      "twitter": "#"
+    },
+    {
+      "author": "Srijita Mandal",
+      "position": "Graphic Designer",
+      "image": "Srijita.jpg",
+      "linkedin": "https://www.linkedin.com/in/srijita-mandal-430021203/",
+      "twitter": "#"
+    },
+    {
+      "image": "srinidhi.png",
+      "author": "Srinidhi Bhat",
+      "position": "Graphic Designer",
+      "linkedin": "https://www.linkedin.com/in/bhatsrinidhi",
+      "twitter": "#"
+    },
+    {
+      "author": "Asmi Jena",
+      "position": "Graphic Designer",
+      "image": "Asmi.jpg",
+      "linkedin": "https://www.linkedin.com/in/asmi-jena-5957a0202/",
+      "twitter": "#"
+    },
+    {
+      "author": "Kritika Tripathi",
+      "position": "Content Writer",
+      "image": "Kritika.png",
+      "linkedin": "https://www.linkedin.com/in/kritika-tripathi-b5052a186/",
+      "twitter": "#"
+    },
+    {
+      "author": "SreeLakshmi Nair",
+      "position": "Content Writer",
+      "image": "Sreelakshminair.jpg",
+      "linkedin": "https://www.linkedin.com/in/sreelakshmi-n-a3b440211/",
+      "twitter": "#"
+    },
+    {
+      "image": "Surbhi singh.jpg",
+      "author": "Surbhi Singh",
+      "position": "Content Writer",
+      "linkedin": "https://www.linkedin.com/in/surbhi-singh-0901/",
+      "twitter": "#"
+    },
+    {
+      "author": "Priya Chakraborty",
+      "position": "Content Writer",
+      "image": "Priya Chakraborty.jpg",
+      "linkedin": "http://www.linkedin.com/in/priya-chakraborty-a48940202",
+      "twitter": "#"
+    }
+  ]
+}

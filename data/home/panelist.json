@@ -1,0 +1,45 @@
+{
+  "heading": "Past Panelist",
+  "list": [
+    {
+      "name": "Anubha Maneshwar",
+      "position": "Founder",
+      "image": "anubha-2.jpg",
+      "company": "GirlScript Foundation",
+      "linkedIn": "https://www.linkedin.com/in/anubhamane",
+      "twitter": "https://twitter.com/anubhamane"
+    },
+    {
+      "name": "Mahua Mukherjee",
+      "position": "Co-Founder",
+      "company": "The star in me",
+      "image": "mahua-star.jpg",
+      "linkedIn": "https://www.linkedin.com/in/mahua-mukherjee",
+      "twitter": "https://twitter.com/mahua_m"
+    },
+    {
+      "name": "S. Rajarajeshwari Mudigonda",
+      "position": "Founder and CEO",
+      "company": "Vera business consulting LLP",
+      "image": "rajarajeshwari.jpeg",
+      "linkedIn": "https://www.linkedin.com/in/rajaraje",
+      "website": "https://vera.asia/"
+    },
+    {
+      "name": "Rashmeet Kaur (Moderator)",
+      "position": "Co-founder",
+      "company": "Lean In India",
+      "image": "rashmeet-kaur.jpg",
+      "linkedIn": "https://www.linkedin.com/in/kaurrashmeet27",
+      "twitter": "https://twitter.com/rashmeet279"
+    },
+    {
+      "name": "Maybelyn Plecic",
+      "position": "Distinguished Engineer",
+      "company": "Presidio",
+      "image": "maybelyn.jpeg",
+      "linkedIn": "https://www.linkedin.com/in/maybelynplecic",
+      "twitter": "https://twitter.com/maybelynplecic"
+    }
+  ]
+}

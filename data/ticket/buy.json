@@ -1,0 +1,27 @@
+{
+  "list": [
+    {
+      "title": "Early Bird Ticket - 1st Aug to 15th Aug",
+      "price": "450",
+      "subheading": "Enjoy All The Features",
+      "description": [
+        { "info": "3 Day Summit" },
+        { "info": "Talks, Panel Discussions, Workshops" },
+        { "info": "Hackathon Participation" },
+        { "info": "21 Under 21 Awards" }
+      ]
+    },
+    {
+      "title": "Regular Ticket - 15th Aug to 30th Aug",
+      "price": "500",
+      "subheading": "Enjoy All The Features",
+      "description": [
+        { "info": "3 Day Summit" },
+        { "info": "Talks, Panel Discussions, Workshops" },
+        { "info": "Hackathon Participation" },
+        { "info": "21 Under 21 Awards" }
+      ]
+    }
+  ]
+}
+

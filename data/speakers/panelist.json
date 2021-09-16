@@ -1,0 +1,59 @@
+{
+  "heading": "Meet Our Past Panelist",
+  "list": [
+    {
+      "name": "Vertika Shukla",
+      "position": "Product Manager & Tech Lead",
+      "image": "vartika.jpeg",
+      "company": "SHEROES",
+      "twitter": "#",
+      "facebook": "#",
+      "instagram": "#"
+    },
+    {
+      "name": "Sanya Khurana",
+      "position": "Co-Founder",
+      "company": "LEAN IN - INDIA",
+      "image": "Sanya_khurana.jpeg",
+      "twitter": "#",
+      "facebook": "#",
+      "instagram": "#"
+    },
+    {
+      "name": "Ketkee Bhave",
+      "position": "North Region Sales Manager",
+      "company": "JOBSFORHER",
+      "image": "keetkee.jpeg",
+      "twitter": "#",
+      "facebook": "#",
+      "instagram": "#"
+    },
+    {
+      "name": "Anupama K Vishwakarma",
+      "position": "Clinical Psychologist",
+      "company": "NGOS",
+      "image": "anupama.jpeg",
+      "twitter": "#",
+      "facebook": "#",
+      "instagram": "#"
+    },
+    {
+      "name": "Dhara Shah",
+      "position": "Co-Founder",
+      "company": "PYKIH",
+      "image": "dhara.jpeg",
+      "twitter": "#",
+      "facebook": "#",
+      "instagram": "#"
+    },
+    {
+      "name": "Leena Duwadi",
+      "position": "Chief Editor",
+      "company": "Wittyfeed",
+      "image": "Leena Duwadi.jpg",
+      "twitter": "#",
+      "facebook": "#",
+      "instagram": "#"
+    }
+  ]
+}

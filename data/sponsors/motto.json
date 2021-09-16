@@ -1,0 +1,24 @@
+{
+    "mottoHeading": "Our Motto",
+    "link": "https://docs.google.com/forms/d/e/1FAIpQLScOj23jR4LbtNTzYH1cn9lq-Z4L6Zx5JmS_w7iREF3btAyaqg/viewform",
+    "list": [
+      {
+        "name": "To educate people in Tech through our initiatives, learning programs, and various online and offline activities.",
+        "image": "problem_solving.png",
+        "imageWidth": "300"
+       
+      },
+      {
+        "name": "To remove myths about tech education by simplifying the technologies with our sessions and bootcamps.",
+        "image": "group_presentation.png",
+        "imageWidth": "300"
+        
+      },
+      {
+        "name": "Spreading awareness about various national and international events, speaking opportunities, scholarships, and fellowships to students in tier 2 and tier 3 cities.",
+        "image": "progress.png",
+        "imageWidth": "300"
+      }
+    ]
+  }
+  

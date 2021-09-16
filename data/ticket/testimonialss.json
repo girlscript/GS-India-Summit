@@ -1,0 +1,30 @@
+{
+  "heading": "Testimonial",
+  "list": [
+    {
+      "name": "John Adams",
+      "position": "Web Developer",
+      "image": "speaker-1.jpg",
+      "text": "&ldquo;The GirlScript India Summit 2018 was packed with great speakers, valuable information, and many learning opportunities for beginners in technology.&rdquo;"
+    },
+    {
+      "name": "Paul George",
+      "position": "Web Developer",
+      "image": "speaker-2.jpg",
+      "text": "Far far away, behind the word mountains, far from the countries Vokalia and Consonantia, there live the blind texts."
+    },
+    {
+      "name": "John Adams",
+      "position": "Web Developer",
+      "image": "speaker-3.jpg",
+      "text": "&ldquo;The GirlScript India Summit 2018 was packed with great speakers, valuable information, and many learning opportunities for beginners in technology.&rdquo;"
+    },
+    {
+      "name": "Paul George",
+      "position": "Web Developer",
+      "image": "speaker-4.jpg",
+      "text": "Far far away, behind the word mountains, far from the countries Vokalia and Consonantia, there live the blind texts."
+    }
+  ]
+}
+

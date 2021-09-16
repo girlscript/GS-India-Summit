@@ -1,0 +1,33 @@
+{
+  "logo": "GS_LOGO_BLACK.png",
+  "list": [
+    {
+      "name": "HOME",
+      "link": "/"
+    },
+    {
+      "name": "SPONSOR US",
+      "link": "/sponsors/"
+    },
+    {
+      "name": "21U21 AWARDS",
+      "link": "/21-under-21/"
+    },
+    {
+      "name": "ABOUT US",
+      "link": "/about/"
+    },
+    {
+      "name": "SPEAKERS",
+      "link": "/speakers/"
+    },
+    {
+      "name": "GALLERY",
+      "link": "/gallery/"
+    },
+    {
+      "name": "CONTACT",
+      "link": "/contact/"
+    }
+  ]
+}

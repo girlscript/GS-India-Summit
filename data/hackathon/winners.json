@@ -1,0 +1,121 @@
+{
+  "heading": "Winners of 2020",
+  "list": [
+    {
+      "heading": "1st - Prize: Team Arise",
+      "list": [
+        {
+          "name": "Anjali Patle",
+          "college": "NIT Raipur",
+          "linkedin": "https://www.linkedin.com/in/anjali-patle-376790191",
+          "image": "anjali-hack.jpg"
+        },
+        {
+          "name": "Anany Sharma",
+          "college": "NIT Raipur",
+          "linkedin": "https://www.linkedin.com/in/anany-sharma-079aa318b",
+          "image": "anany-hack.jpg"
+        },
+        {
+          "name": "Aryan Sarkar",
+          "college": "NIT Raipur",
+          "linkedin": "https://www.linkedin.com/in/aryan-sarkar",
+          "image": "aryan-hack.jpg"
+        },
+        {
+          "name": "Sanjeeb Nath",
+          "college": "NIT Raipur",
+          "linkedin": "https://www.linkedin.com/in/sanjeeb-nath-a8a841130",
+          "image": "sanjeeb-hack.jpg"
+        },
+        {
+          "name": "Sakshi Bhandarkar",
+          "college": "NIT Raipur",
+          "linkedin": "https://www.linkedin.com/mwlite/in/sakshi-bhandarkar-960135177",
+          "image": "sakshi-hack.jpg"
+        }
+      ]
+    },
+    {
+      "heading": "2nd - Prize: Team PCOS_Virago",
+      "list": [
+        {
+          "name": "Anushka Ajay Bhave",
+          "college": "Vishwakarma Institute of Technology Pune",
+          "linkedin": "https://www.linkedin.com/in/anushka-bhave-8b9617193",
+          "image": "anushka-21u21.jpg"
+        },
+        {
+          "name": "Sakshi Jitendra Oswal",
+          "college": "Vishwakarma Institute of Technology Pune",
+          "linkedin": "https://www.linkedin.com/in/sakshi-oswal-a45b46190",
+          "image": "sakshi-2-hack.jpg"
+        },
+        {
+          "name": "Prasanna Akolkar",
+          "college": "Vishwakarma Institute of Technology Pune",
+          "linkedin": "https://www.linkedin.com/in/prasanna-akolkar-a06400187",
+          "image": "prasanna-hack.jpg"
+        }
+      ]
+    },
+    {
+      "heading": "3rd - Prize: Team Alpha",
+      "list": [
+        {
+          "name": "Pragati Verma",
+          "college": "JSS Academy of Technical Education, Noida",
+          "linkedin": "https://www.linkedin.com/in/PragatiVerma18/",
+          "image": "pragati-hack.jpg"
+        },
+        {
+          "name": "Nihal Pandey",
+          "college": "JSS Academy of Technical Education, Noida",
+          "linkedin": "https://www.linkedin.com/in/nihal-pandey-a07ab0173/",
+          "image": "nihal-hack.jpg"
+        },
+        {
+          "name": "Shristi Singh",
+          "college": "JSS Academy of Technical Education, Noida",
+          "linkedin": "http://linkedin.com/in/shristi-singh-762987173",
+          "image": "shristi-hack.jpg"
+        },
+        {
+          "name": "Rajat Verma",
+          "college": "JSS Academy of Technical Education, Noida",
+          "linkedin": "https://www.linkedin.com/in/rajat2502/",
+          "image": "rajat-hack.jpg"
+        }
+      ]
+    },
+    {
+      "heading": "Special Prize for Girls only Team: Virus Vixens",
+      "list": [
+        {
+          "name": "Radhika Agarwal",
+          "college": "IIIT Bhubaneshwar",
+          "linkedin": "https://www.linkedin.com/in/radhika-agarwal-917733173",
+          "image": "radhika-hack.jpg"
+        },
+        {
+          "name": "Adyasha Mohanty",
+          "college": "College of engineering and technology, Bhubaneswar",
+          "linkedin": "https://www.linkedin.com/in/adyasha-mohanty-7a6254191",
+          "image": "adyasha-hack.jpg"
+        },
+        {
+          "name": "Priyanka Agrawal",
+          "college": "College of engineering and technology, Bhubaneswar",
+          "linkedin": "https://www.linkedin.com/in/priyanka-agrawal-6a28681b7",
+          "image": "priyanka-hack.jpg"
+        },
+        {
+          "name": "Urbashi Agrawalla",
+          "college": "College of engineering and technology, Bhubaneswar",
+          "linkedin": "https://www.linkedin.com/in/urbashi-agrawalla-b4349316b",
+          "image": "urbashi-hack.jpg"
+        }
+      ]
+    }
+  ]
+}

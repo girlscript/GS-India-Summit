@@ -1,0 +1,73 @@
+{
+  "heading": "Past Partners",
+  "list": [
+    {
+      "name": "Github",
+      "image": "github.png",
+      "text": "Community Partner",
+      "imageWidth": "130"
+    },
+    {
+      "name": "KonfHub",
+      "image": "konfhub.jpg",
+      "text": "Ticketing Partner",
+      "imageWidth": ""
+    },
+    {
+      "name": "IncubateIND",
+      "image": "incubate.jpg",
+      "text": "Hackathon Platform Partner",
+      "imageWidth": "150"
+    },
+    {
+      "name": "O'REILLY",
+      "image": "oreilly.jpg",
+      "text": "Online Learning Partner",
+      "imageWidth": ""
+    },
+    {
+      "name": "Zebronics",
+      "image": "zebronics.png",
+      "text": "Audio Partner",
+      "imageWidth": "150"
+    },
+    {
+      "name": "Coding Ninjas",
+      "image": "coding_ninjas.png",
+      "text": "Outreach Partner",
+      "imageWidth": "130"
+    },
+    {
+      "name": "Balsamiq",
+      "image": "balsamiq.jpg",
+      "text": "Online Product Partner",
+      "imageWidth": ""
+    },
+    {
+      "name": "Your Story",
+      "image": "yourstory.png",
+      "text": "Outreach Partner",
+      "imageWidth": "150"
+    },
+    {
+      "name": "Hiatus",
+      "image": "hiatus_white.jpg",
+      "text": "Hospitality Partner",
+      "imageWidth": ""
+    },
+    {
+      "name": "Delhi Technological University",
+      "image": "dtu_png.png",
+      "text": "VENUE PARTNER",
+      "imageWidth": "150"
+    },
+    {
+      "name": "ITH Technologies",
+      "image": "ith_tech.png",
+      "text": "Support Partner",
+      "imageWidth": ""
+    }
+
+
+  ]
+}

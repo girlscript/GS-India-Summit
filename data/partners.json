@@ -1,0 +1,52 @@
+{
+  "current": {
+    "heading": "2020 Partners",
+    "list": [
+      {
+        "name": "KonfHub",
+        "image": "konfhub.jpg",
+        "text": "Ticketing Partner",
+        "imageWidth": ""
+      }
+    ]
+  },
+  "heading": "Our Past Partners",
+  "list": [
+    {
+      "name": "Tortenschneiderei",
+      "image": "food.png",
+      "text": "Support Partner",
+      "imageWidth": ""
+    },
+    {
+      "name": "O'REILLY",
+      "image": "oreilly.jpg",
+      "text": "Online Learning Partner",
+      "imageWidth": ""
+    },
+    {
+      "name": "Townscript",
+      "image": "townscript.png",
+      "text": "Ticketing Partner",
+      "imageWidth": "240"
+    },
+    {
+      "name": "O-Genie",
+      "image": "ogeniw.jpg",
+      "text": "Travel Community Partner",
+      "imageWidth": "150"
+    },
+    {
+      "name": "Crowdpouch",
+      "image": "pund_png1.jpeg",
+      "text": "Fund Raising Partner",
+      "imageWidth": "600"
+    },
+    {
+      "name": "Zebronics",
+      "image": "zebronics.png",
+      "text": "Audio Partner",
+      "imageWidth": "150"
+    }
+  ]
+}

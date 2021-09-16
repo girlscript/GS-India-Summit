@@ -1,0 +1,76 @@
+{
+  "list": [
+    {
+      "title": "Data structures and Algorithms",
+      "details": [
+        "Complexity analysis and linear data structures",
+        "Searching and sorting algos",
+        "Basic Recursion",
+        "Stacks,Queues,linked lists Basic math operations (addition, subtraction, multiplication, division, exponentiation)",
+        "Sqrt(n) primality testing Euclid’s Algorithms Divide and Conquer Sieve of Eratosthenes game theory and other basic algos",
+        "Coding Test (to be conducted on Hackerank)",
+        "Guest Mentor talk"
+      ]
+    },
+    {
+      "title": "Open CV-Python tutorials",
+      "details": [
+        "Introduction to OpenCV and Gui Features in OpenCV Learn how to setup OpenCV-Python on your computer Learn how to display and save images and videos, control mouse events",
+        "Core Operations and Image Processing in OpenCV learn basic operations on image like pixel editing, geometric transformations, code optimization, some mathematical tools etc learn different image processing functions inside OpenCV",
+        "Feature Detection and Description and Video Analysis learn about feature detectors and descriptors learn different techniques to work with videos like object tracking etc",
+        "Camera Calibration and 3D Reconstruction and Machine Learning learn about camera calibration, stereo imaging etc learn different image processing functions inside OpenCV.",
+        "Computational Photography and Object Detection learn different computational photography techniques like image denoising etc. learn object detection techniques like face detection etc. OpenCV-Python Bindings",
+        "MCQ test consisting of 40-50 questions",
+        "Guest Mentor talk"
+      ]
+    },
+    {
+      "title": "Graphic Designing",
+      "details": [
+        "Installation, working out the tools and understanding the layout and UI,Colour Theory",
+        "Typography,Creativity,Imagination,Basic SKetching",
+        "Photography,Psychology of clients,Designing Techniques",
+        "Hands on designing with the mentor",
+        "Hands on designing with the mentor",
+        "Design Contest",
+        "Guest Mentor talk"
+      ]
+    },
+    {
+      "title": "Web Designing",
+      "details": [
+        "HTML and CSS(fundamentals , grids and flexbox)",
+        "JavaScript Fundamentals (variables, data types, functions, conditionals, etc)",
+        "DOM (Document object model) (Javascript Object Notation) Fetch API (Request/Response/Ajax)",
+        "Modern JS (ES6) introduction to nodejs",
+        "A hands on project with the mentor",
+        "MCQ test consisting of 40-50 questions",
+        "Guest Mentor talk"
+      ]
+    },
+    {
+      "title": "Javascript with React",
+      "details": [
+        "Insatllations and Basic syntax and code understanding,Operators, Array,strings,Mathematics functions",
+        "BasicDatastructures and Algorithms",
+        "Introduction Setting up Development Environment Introduction to JSX ReactDOM Rendering Elements Components",
+        "ReactJS Props PropTypes State in React Lifecycle of Components Implementing State & Lifecycle Importing and Exporting",
+        "ReactJS – Intermediate Conditional Rendering Lists Keys Transition Group",
+        "MCQ test consisting of 40-50 questions",
+        "Guest Mentor talk"
+      ]
+    },
+    {
+      "title": "Machine Learning",
+      "details": [
+        "Introduction to Machine Learning Numpy Library Pandas Library",
+        "Matplotlib Library and Sklearn Library Sklearn Library Linear Regression Logistic Regression",
+        "Decision Tree and Random Forest Ensemble Techniques",
+        "Naves Bayes and Support vector machine Unsupervised Learning Algorithms",
+        "Dimensionality reduction Algorithms Introduction to Deep learning",
+        "MCQ test consisting of 40-50 questions",
+        "Guest Mentor talk"
+      ]
+    }
+  ]
+}

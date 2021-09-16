@@ -1,0 +1,34 @@
+{
+  "heading": "Past Speakers",
+  "text": "The third edition of Girlscript India summit will host best set of speakers like it did in all previous editions.The earlier editions hosted the following speakers-",
+  "list": [
+    {
+      "name": "Gaurang Shetty",
+      "position": "Founder Maker Mela &amp; CEO at RiiDL",
+      "image": "person_3.jpeg",
+      "text": "Gaurang Shetty is currently the Chief Innovation Catalyst / CEO at RiiDL (Research Innovation Incubation Design Laborator), which has been initiated by Somaiya Vidyavihar and backed by Department of Science &amp; Technology Government of India. He also leads the Developer Circles community for Facebook in Mumbai.",
+      "textBy": "Gaurang -"
+    },
+    {
+      "name": "Ayush Jaiswal",
+      "position": "FOUNDER & CEO PESTO.TECH",
+      "image": "person_4.jpeg",
+      "text": "Pesto is on a mission to turn global software engineering wages into a meritocracy, regardless of where someone is born.",
+      "textBy": "Ayush —"
+    },
+    {
+      "name": "Shashank Randev",
+      "position": "INDIAN CHAMBER OF COMMERCE & INVESTOR AT 100X.VC",
+      "image": "person_2.png",
+      "text": "Shashank brings entrepreneurial and investment understanding with 15+ years of cross functional expertise. He has acquired a depth and breadth of experience from having worked in large companies, a startup (acquired by a Fortune 500 Company) and an early stage fund investing in technology-enabled startups.",
+      "textBy": "Shashank —"
+    },
+    {
+      "name": "Sairee Chahal",
+      "position": "FOUNDER SHEROES, BOARD MEMEBER PAYTM",
+      "image": "person_1 (1).jpg",
+      "text": "Sairee Chahal is the Founder, CEO of SHEROES – a community platform for women, offering support, resources, opportunities and interactions via Sheroes.com and the SHEROES App. Sairee is credited with building up women at work and future-of-work conversations in India, besides building a strong technology play to solve the problems of gender disparity in India.",
+      "textBy": "Sairee —"
+    }
+  ]
+}

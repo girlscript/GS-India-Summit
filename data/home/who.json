@@ -1,0 +1,41 @@
+{
+  "heading": "Who are we?",
+  "text": "GirlScript is a non-profit organization that promotes diversity in Technical Education",
+  "motoHeading": "Our Moto",
+  "motoList": [
+    "To educate people in tech",
+    "Remove myths about tech education",
+    "Spread Awareness about opportunities in tier 2 & 3 cities",
+    "Introduce tech content which is helpful for everyone"
+  ],
+  "statsList": [
+    {
+      "title": "5,00,000+ STUDENTS IMPACTED",
+      "progress": "90"
+    },
+    {
+      "title": "50% FEMALE PARTICIPATION",
+      "progress": "50"
+    },
+    {
+      "title": "77+ CITIES IMPACTED IN INDIA",
+      "progress": "77"
+    },
+    {
+      "title": "4 INTERNATIONAL CHAPTERS",
+      "progress": "75"
+    },
+    {
+      "title": "250+ COMPANIES ASSOCIATED",
+      "progress": "80"
+    },
+    {
+      "title": "1000+ COLLEGES AND INSTITUTES PARTENERED",
+      "progress": "90"
+    },
+    {
+      "title": "15+ INITIATIVES",
+      "progress": "90"
+    }
+  ]
+}

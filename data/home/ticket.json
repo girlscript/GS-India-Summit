@@ -1,0 +1,47 @@
+{
+  "heading": "Out Ticket Pricing",
+  "list": [
+    {
+      "name": "Early Bird Ticket-OPEN NOW",
+      "price": "800",
+      "features": [
+        "2 Day Summit",
+        "Swag Kit",
+        "2 Days Brunch",
+        "Lunch",
+        "Talks, Panel, Workshop",
+        "Hackathon Participation",
+        "21 Under 21 Awards"
+      ],
+      "link": "#"
+    },
+    {
+      "name": "Regular Ticket-Available From SEP. 01, 2019",
+      "price": "1000",
+      "features": [
+        "2 Day Summit",
+        "Swag Kit",
+        "2 Days Brunch",
+        "Lunch",
+        "Talks, Panel, Workshop",
+        "Hackathon Participation",
+        "21 Under 21 Awards"
+      ],
+      "link": "#"
+    },
+    {
+      "name": "LATE BIRD TICKET- AVAILABLE FROM SEP. 30, 2019",
+      "price": "1200",
+      "features": [
+        "2 Day Summit",
+        "Swag Kit",
+        "2 Days Brunch",
+        "Lunch",
+        "Talks, Panel, Workshop",
+        "Hackathon Participation",
+        "21 Under 21 Awards"
+      ],
+      "link": "#"
+    }
+  ]
+}

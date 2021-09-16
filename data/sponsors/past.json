@@ -1,0 +1,41 @@
+{
+    "Heading": "Impact Created",
+    "link": "https://docs.google.com/forms/d/e/1FAIpQLScOj23jR4LbtNTzYH1cn9lq-Z4L6Zx5JmS_w7iREF3btAyaqg/viewform",
+    "list": [
+      {
+        "name": "10000+ people attended our past 4 Summits from various regions in India. Also, attended our sessions, panel discussions and participated in hackathons too.",
+        "image": "people.png",
+        "imageWidth": "240"
+       
+      },
+      {
+        "name": "82% Developers",
+        "image": "developer.png",
+        "imageWidth": "240"
+        
+      },
+      {
+        "name": "4% UI/UX Developers",
+        "image": "ui.png",
+        "imageWidth": "240"
+      },
+      {
+        "name": "3% Entrepreneurs",
+        "image": "entrepreneurs.png",
+        "imageWidth": "240"
+      }
+      ,
+      {
+        "name": "7% Management",
+        "image": "management.png",
+        "imageWidth": "240"
+      }
+      ,
+      {
+        "name": "4% Other Domains",
+        "image": "others.png",
+        "imageWidth": "240"
+      }
+    ]
+  }
+  

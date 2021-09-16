@@ -1,0 +1,105 @@
+{
+  "rules": {
+    "heading": "Rules",
+    "list": [
+      {
+        "description": "Total duration of hackathon is 12 hours."
+      },
+      {
+        "description": "Must register for the Summit, to participate in the Hackathon."
+      },
+      { "description": "Group of 3-5 members per team." },
+      { "description": "At least 1 Girl member in each team." },
+      {
+        "description": "The theme is #HackForWomen, more details will be updated soon."
+      }
+    ]
+  },
+  "problemStatement": {
+    "list": [
+      {
+        "heading": "1. Career and Motherhood- How to restart?",
+        "description1": "- Sareeta was a Php developer in 2014 when she got married. She didn’t want to leave her development job and get married but she also understood her parent’s feelings and also needed a partner. When she took a career break, within 2014-2019 the tech world has changed tremendously. ",
+        "description2": "What she could have done to remain updated? Moreover, she is now a mother of a 3 year old, how can she start her career again and still play a role of being a mother? What can be done to upskill?"
+      },
+      {
+        "heading": "2. Career and Motherhood- How to restart?",
+        "description1": "- Sareeta was a Php developer in 2014 when she got married. She didn’t want to leave her development job and get married but she also understood her parent’s feelings and also needed a partner. When she took a career break, within 2014-2019 the tech world has changed tremendously. ",
+        "description2": "What she could have done to remain updated? Moreover, she is now a mother of a 3 year old, how can she start her career again and still play a role of being a mother? What can be done to upskill?"
+      },
+      {
+        "heading": "3. Career and Motherhood- How to restart?",
+        "description1": "- Sareeta was a Php developer in 2014 when she got married. She didn’t want to leave her development job and get married but she also understood her parent’s feelings and also needed a partner. When she took a career break, within 2014-2019 the tech world has changed tremendously. ",
+        "description2": "What she could have done to remain updated? Moreover, she is now a mother of a 3 year old, how can she start her career again and still play a role of being a mother? What can be done to upskill?"
+      },
+      {
+        "heading": "4. Career and Motherhood- How to restart?",
+        "description1": "- Sareeta was a Php developer in 2014 when she got married. She didn’t want to leave her development job and get married but she also understood her parent’s feelings and also needed a partner. When she took a career break, within 2014-2019 the tech world has changed tremendously. ",
+        "description2": "What she could have done to remain updated? Moreover, she is now a mother of a 3 year old, how can she start her career again and still play a role of being a mother? What can be done to upskill?"
+      },
+      {
+        "heading": "5. Career and Motherhood- How to restart?",
+        "description1": "- Sareeta was a Php developer in 2014 when she got married. She didn’t want to leave her development job and get married but she also understood her parent’s feelings and also needed a partner. When she took a career break, within 2014-2019 the tech world has changed tremendously. ",
+        "description2": "What she could have done to remain updated? Moreover, she is now a mother of a 3 year old, how can she start her career again and still play a role of being a mother? What can be done to upskill?"
+      }
+    ]
+  },
+  "agenda": {
+    "date": "19 October, 2019",
+    "type": "Hackathon Agenda",
+    "list": [
+      {
+        "timing": "08:30-10:00 AM",
+        "event": "Registration"
+      },
+      {
+        "timing": "10:00-10:30 AM",
+        "event": "Introduction About Hackathon"
+      },
+      {
+        "timing": "10:30-11:00 AM",
+        "event": "Team Formation"
+      },
+      {
+        "timing": "11:00-11:10 AM",
+        "event": "Problem Statement Accouncement for Hackathon"
+      },
+      {
+        "timing": "11:10-11:45 AM",
+        "event": "Break"
+      },
+      {
+        "timing": "11:45-12:30 PM",
+        "event": "Idea Formation"
+      },
+      {
+        "timing": "12:00-02:30 PM",
+        "event": "GraphQL React WorkShop"
+      },
+      {
+        "timing": "12:30-01:10 PM",
+        "event": "Idea Pitching for 2 Minutes"
+      },
+      {
+        "timing": "01:10-04:00 PM",
+        "event": "Execution Time"
+      },
+      {
+        "timing": "04:00-04:40 PM",
+        "event": "Mid Evaluation"
+      },
+      {
+        "timing": "04:40-05:30 PM",
+        "event": "Break"
+      },
+      {
+        "timing": "05:30-08:00 PM",
+        "event": "Execution Time"
+      },
+      {
+        "timing": "08:00-09:00 PM",
+        "event": "Final Evalution (For Top 10 Teams)"
+      }
+    ]
+  }
+}

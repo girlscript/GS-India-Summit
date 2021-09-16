@@ -1,0 +1,35 @@
+{
+  "heading": "Past Panelist",
+  "list": [
+    {
+      "name": "Sanya Khurana",
+      "position": "Co-Founder",
+      "company": "LEAN IN - INDIA",
+      "image": "Sanya_khurana.jpeg"
+    },
+    {
+      "name": "Ketkee Bhave",
+      "position": "North Region Sales Manager",
+      "company": "JOBSFORHER",
+      "image": "keetkee.jpeg"
+    },
+    {
+      "name": "Anupama K Vishwakarma",
+      "position": "Clinical Psychologist",
+      "company": "NGOS",
+      "image": "anupama.jpeg"
+    },
+    {
+      "name": "Dhara Shah",
+      "position": "Co-Founder",
+      "company": "PYKIH",
+      "image": "dhara.jpeg"
+    },
+    {
+      "name": "Leena Duwadi",
+      "position": "Chief Editor",
+      "company": "Wittyfeed",
+      "image": "Leena Duwadi.jpg"
+    }
+  ]
+}

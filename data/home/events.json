@@ -1,0 +1,20 @@
+{
+  "heading": "Our Past Events",
+  "list": [
+    {
+      "name": "GirlScript Summit 2020",
+      "place": "Virtual",
+      "img": "gss20.jpeg"
+    },
+    {
+      "name": "GirlScript Summit 2019",
+      "place": "Delhi",
+      "img": "gss19.jpeg"
+    },
+    {
+      "name": "GirlScript Summit 2018",
+      "place": "Nagpur",
+      "img": "gss18.jpg"
+    }
+  ]
+}

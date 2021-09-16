@@ -1,0 +1,45 @@
+{
+  "heading": "Past Speakers",
+  "list": [
+    {
+      "name": "Saurabh Jain",
+      "position": "VICE PRESIDENT",
+      "company": "Paytm",
+      "image": "saurabh-paytm.jpg",
+      "linkedIn": "https://www.linkedin.com/in/saurabhskj/",
+      "twitter": "https://twitter.com/skjsaurabh"
+    },
+    {
+      "name": "Gaurav Chandak",
+      "position": "CO-FOUNDER",
+      "company": "WORKATTECH, EX - MICROSOFT & FLIPKART",
+      "image": "chandak.jpeg",
+      "twitter": "https://twitter.com/gc_nit",
+      "linkedIn": "https://www.linkedin.com/in/gcnit"
+    },
+    {
+      "name": "Laisha Wadhwa",
+      "position": "Data Engineer",
+      "company": "Couture.ai",
+      "image": "laisha-couture.jpg",
+      "linkedIn": "https://www.linkedin.com/in/laisha-wadhwa/",
+      "twitter": "https://twitter.com/laishawadhwa"
+    },
+    {
+      "name": "Avi Aryan",
+      "position": "SENIOR SOFTWARE ENGINEER",
+      "company": "TOPTAL",
+      "image": "avi.jpeg",
+      "linkedIn": "https://www.linkedin.com/in/aviaryan",
+      "twitter": "https://twitter.com/aviaryan123"
+    },
+    {
+      "name": "Divya Vaishnavi",
+      "position": "Director Product",
+      "company": "github",
+      "image": "divya-github.jpg",
+      "linkedIn": "https://www.linkedin.com/in/divya-vaishnavi-4827911b",
+      "twitter": "https://twitter.com/divyavaishnavi"
+    }
+  ]
+}

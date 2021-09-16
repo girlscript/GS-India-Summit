@@ -1,0 +1,37 @@
+{
+    "heading": "",
+    "description":"GirlScript India Summit is the Biggest Annual Event of Technology, Talent, Entrepreneurship, and Diversity, hosted by GirlScript Foundation.",
+    "list": [
+      {
+        "name": "Vertika Shukla",
+        "position": "Product Manager & Tech Lead",
+        "image": "vartika.jpeg",
+        "company":"SHEROES"
+      },
+      {
+        "name": "Sanya Khurana",
+        "position": "Co-Founder",
+        "company":"SHEROES",
+        "image": "Sanya_khurana.jpeg"
+      },
+      {
+        "name": "Ketkee Bhave",
+        "position": "North Region Sales Manager",
+        "company":"JOBSFORHER",
+        "image": "keetkee.jpeg"
+      },
+      {
+        "name": "Anupama K Vishwakarma",
+        "position": "Clinical Psychologist",
+        "company":"NGOS",
+        "image": "anupama.jpeg"
+      },
+      {
+        "name": "Dhara Shah",
+        "position": "Co-Founder",
+        "company":"PYKIH",
+        "image": "dhara.jpeg"
+      }
+    ]
+  }
+  

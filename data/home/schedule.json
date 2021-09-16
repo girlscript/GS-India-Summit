@@ -1,0 +1,169 @@
+{
+  "heading": "Timeline",
+  "list": [
+    {
+      "heading": "GirlScript India Virtual Summit 2020 - Day 1",
+      "subheading1": "Date",
+      "subheading2": "Time",
+      "subheading3": "Events",
+      "list": [
+        {
+          "date": "18th Sept 2020",
+          "time": "9:00AM - 9:00PM",
+          "event": "Online Hackathon"
+        }
+      ]
+    },
+    {
+      "heading": "GirlScript India Virtual Summit 2020 - Day 2",
+      "subheading1": "Date",
+      "subheading2": "Time",
+      "subheading3": "Events",
+      "list": [
+        {
+          "date": "19th Sept 2020",
+          "time": "10:00AM - 10:30AM",
+          "event": "Introduction by GirlScript Team"
+        },
+        {
+          "date": "19th Sept 2020",
+          "time": "10:40AM - 11:10AM",
+          "event": "Prajith Kesava Prasad- Decentralized Cloud Storage using fundamentals of block-chain"
+        },
+        {
+          "date": "19th Sept 2020",
+          "time": "11:15AM - 11:45AM",
+          "event": "Ayon Roy - PySpark - Combining Machine Learning & Big Data"
+        },
+        {
+          "date": "19th Sept 2020",
+          "time": "11:50AM - 12:20PM",
+          "event": "Gajendra Deshpande - Investigating Digital Crimes using Python"
+        },
+        {
+          "date": "19th Sept 2020",
+          "time": "12:25PM - 01:00PM",
+          "event": "Anustup Mukherjee- Lifting Up: Deep Learning for implementing anti-hunger and anti-poverty programs– Keras Python Library"
+        },
+        {
+          "date": "19th Sept 2020",
+          "time": "01:00PM - 02:30PM",
+          "event": "Lunch Break"
+        },
+        {
+          "date": "19th Sept 2020",
+          "time": "02:40PM - 03:40PM",
+          "event": "Shashank Mishra - On/Off campus placements complete roadmap"
+        },
+        {
+          "date": "19th Sept 2020",
+          "time": "03:45PM - 04:15PM",
+          "event": "Jayesh Bapu Ahire- Distributed Tracing : New DevOps Foundation"
+        },
+        {
+          "date": "19th Sept 2020",
+          "time": "04:20PM - 04:50PM",
+          "event": "Abhishek Maurya- Cloud Computing"
+        },
+        {
+          "date": "19th Sept 2020",
+          "time": "04:55PM - 05:25PM",
+          "event": "Dhairya Gangwani - LinkedIn Profile Building & Personal Branding"
+        },
+        {
+          "date": "19th Sept 2020",
+          "time": "05:30PM - 06:00PM",
+          "event": "Laisha Wadhwa - Autonomous Vehicles See More With Thermal Imaging: Multi-modal thin cross section Object Detection "
+        },
+        {
+          "date": "19th Sept 2020",
+          "time": "06:05PM - 06:35PM",
+          "event": "Hrishikesh talk - Getting Job Ready for SDE roles."
+        }
+      ]
+    },
+    {
+      "heading": "GirlScript India Virtual Summit 2020 - Day 3",
+      "subheading1": "Date",
+      "subheading2": "Time",
+      "subheading3": "Events",
+      "list": [
+        {
+          "date": "20th Sept 2020",
+          "time": "10:00AM - 10:30AM",
+          "event": "Introduction by GirlScript Team"
+        },
+        {
+          "date": "20th Sept 2020",
+          "time": "10:40AM - 11:05AM",
+          "event": "Priyadeep Sinha - Entrepreneurship and Generation Z "
+        },
+        {
+          "date": "20th Sept 2020",
+          "time": "11:10AM - 11:35AM",
+          "event": "Gaurav Chandak - Code your way to become a software engineer"
+        },
+        {
+          "date": "20th Sept 2020",
+          "time": "11:40AM - 12:05PM",
+          "event": "Suchismitra Sen Basu - Emotional Wellness and Success"
+        },
+        {
+          "date": "20th Sept 2020",
+          "time": "12:10PM - 12:35PM",
+          "event": "Deepanjali Sarna - Gaming Industry and Opportunities"
+        },
+        {
+          "date": "20th Sept 2020",
+          "time": "12:40PM - 01:00PM",
+          "event": "Avi Aryan - Getting a $100K/Y job offer while working in India"
+        },
+        {
+          "date": "20th Sept 2020",
+          "time": "01:00PM - 02:30PM",
+          "event": "Lunch Break"
+        },
+        {
+          "date": "20th Sept 2020",
+          "time": "02:40PM - 03:20PM",
+          "event": "Panel discussion speakers"
+        },
+        {
+          "date": "20th Sept 2020",
+          "time": "03:30PM - 03:55PM",
+          "event": "Amlan Chakravarty - Will AI take up my job"
+        },
+        {
+          "date": "20th Sept 2020",
+          "time": "04:00PM - 04:25PM",
+          "event": "Saurabh Jain - The formula for a successful startup"
+        },
+        {
+          "date": "20th Sept 2020",
+          "time": "04:30PM - 04:55PM",
+          "event": "Aditya Arora - Follow your passion for happy and successful career"
+        },
+        {
+          "date": "20th Sept 2020",
+          "time": "05:00PM - 05:30PM",
+          "event": "Preethi Guruswamy - AI, ML & DL - Career Choices"
+        },
+        {
+          "date": "20th Sept 2020",
+          "time": "05:30PM - 06:00PM",
+          "event": "Divya Vaishnavi - Github Education"
+        },
+        {
+          "date": "20th Sept 2020",
+          "time": "06:05PM - 06:35PM",
+          "event": "Dr. Shruti Nair - Being a changemaker in an everything-changing world."
+        },
+        {
+          "date": "20th Sept 2020",
+          "time": "06:35PM - 07:05PM",
+          "event": "Closing & Thank you Note by team"
+        }
+      ]
+    }
+  ]
+}
