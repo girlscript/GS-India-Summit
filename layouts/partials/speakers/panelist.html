@@ -1,0 +1,82 @@
+<div class="site-section">
+  <div class="container">
+    <div class="row mb-5">
+      <div class="col-lg-4 mb-5">
+        <div
+          class="site-section-heading aos-init aos-animate"
+          data-aos="fade-up"
+        >
+          <h2 class="text-start">{{ .heading }}</h2>
+        </div>
+      </div>
+    </div>
+
+      <div class="row d-flex justify-content-center">
+        {{ range.list }}
+        <div
+          class="col-md-6 col-lg-4 mb-5 mb-lg-5 aos-init aos-animate"
+          data-aos="fade-up"
+          data-aos-delay="400"
+        >
+          <div class="testimony text-center">
+            <figure>
+              <img
+                src="/images/{{ .image }}"
+                alt="{{ .name }}"
+                class="img-fluid squared-images"
+              />
+            </figure>
+            <blockquote >
+              <p class="author mb-0">{{ .name }}</p>
+              <p class="text-muted text-uppercase mb-4">{{ .position }}</p>
+              <span
+                class="text-uppercase text-primary d-block mb-3 aos-init aos-animate"
+                data-aos="fade-right"
+                data-aos-delay="300"
+                >{{ .company }}</span
+              >
+              <p></p>
+            </blockquote>
+                <ul class="ftco-social mt-3">
+                  {{ with.website }}
+                  <li class="ftco-animate">
+                    <a href="{{ . }}" target="_blank" rel="noopenner noreferrer"
+                      ><span class="icon-link"></span
+                    ></a>
+                  </li>
+                  {{ end }}
+                  {{ with.twitter }}
+                  <li class="ftco-animate">
+                    <a href="{{ . }}" target="_blank" rel="noopenner noreferrer"
+                      ><span class="icon-twitter"></span
+                    ></a>
+                  </li>
+                  {{ end }}
+                  {{ with.linkedIn }}
+                  <li class="ftco-animate">
+                    <a href="{{ . }}" target="_blank" rel="noopenner noreferrer"
+                      ><span class="icon-linkedin"></span
+                    ></a>
+                  </li>
+                  {{ end }}
+                  {{ with.facebook }}
+                  <li class="ftco-animate">
+                    <a href="{{ . }}" target="_blank" rel="noopenner noreferrer"
+                      ><span class="icon-facebook"></span
+                    ></a>
+                  </li>
+                  {{ end }}
+                  {{ with.instagram }}
+                  <li class="ftco-animate">
+                    <a href="{{ . }}" target="_blank" rel="noopenner noreferrer"
+                      ><span class="icon-instagram"></span
+                    ></a>
+                  </li>
+                  {{ end }}
+                </ul>
+          </div>
+        </div>
+        {{ end }}
+      </div>
+  </div>
+</div>

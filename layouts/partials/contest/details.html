@@ -1,0 +1,39 @@
+<div
+  class="site-section"
+  style="min-height: 100vh; padding: 5em 0 2em 0; background-color: white;"
+>
+  <div class="container">
+    <div class="row">
+      {{ range.list }}
+      <div
+        class="col-md-12 mb-5 aos-init aos-animate"
+        data-aos="fade-up"
+        data-aos-delay="200"
+      >
+        <div class="container cards">
+          <div class="pricing border-secondary text-center">
+            <h1 class="display-4 text-primary setter pricee font-weight-normal">
+              {{ .title }}
+            </h1>
+
+            <div class="p-4 table-responsive">
+              <table class="table text-left">
+                {{ range $index, $det := .details }}
+                <tr class="pt-1">
+                  <td style="min-width: 100px">
+                    <b>Day {{ add 1 $index }}.</b>
+                  </td>
+                  <td>{{ $det }}</td>
+
+                  <td></td>
+                </tr>
+              {{ end }}
+              </table>
+            </div>
+          </div>
+        </div>
+      </div>
+      {{ end }}
+    </div>
+  </div>
+</div>

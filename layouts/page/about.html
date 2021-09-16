@@ -1,0 +1,22 @@
+{{ define "main" }}
+
+<style>
+  .coordinator img {
+    max-width: 50px;
+    border-radius: 50%;
+  }
+  .testimony figure img {
+    margin: 0 auto;
+    max-width: 150px;
+    border-radius: 50%;
+  }
+</style>
+{{ partial "navbar.html" . }}
+{{ partial "about/hero.html" .Site.Data.about.hero }}
+{{ partial "about/welcome.html" .Site.Data.about.welcome }}
+{{ partial "about/team.html" .Site.Data.about.team }}
+<!--{{ partial "about/sponsors.html" .Site.Data.about.sponsors }}-->
+{{ partial "footer.html" .Site.Data.footer }}
+{{ partial "loader.html" }}
+
+{{ end }}

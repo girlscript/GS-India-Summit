@@ -1,0 +1,21 @@
+<section class="ftco-gallery">
+  <div class="container-wrap">
+    <div class="row no-gutters">
+      {{ range.list }}
+      <div class="col-md-3 ftco-animate">
+        <a
+          href="/images/{{ . }}"
+          class="gallery image-popup img d-flex align-items-center"
+          style="background-image: url(images/{{ . }});"
+        >
+          <div
+            class="icon mb-4 d-flex align-items-center justify-content-center"
+          >
+            <span class="icon-instagram"></span>
+          </div>
+        </a>
+      </div>
+      {{ end }}
+    </div>
+  </div>
+</section>

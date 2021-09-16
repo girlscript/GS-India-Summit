@@ -1,0 +1,8 @@
+{{ define "main" }}
+{{ partial "navbar.html" . }}
+{{ partial "buy-ticket/hero.html" .Site.Data.ticket.hero }}
+{{ partial "buy-ticket/buy.html" .Site.Data.ticket.buy }}
+{{ partial "buy-ticket/testimonial.html" .Site.Data.home.testimonial}}
+{{ partial "footer.html" .Site.Data.footer }}
+{{ partial "loader.html" }}
+{{ end }}

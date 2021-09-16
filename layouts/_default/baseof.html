@@ -1,0 +1,8 @@
+{{ partial "head.html" . }}
+
+<main id="content">
+  {{- block "main" .}}{{- end}}
+</main>
+
+{{ partial "tail.html" . }}
+{{- block "script" .}}{{- end }}

@@ -1,0 +1,29 @@
+<div class="container pb-5">
+  <div class="site-section">
+    <div class="container">
+      <div class="row mb-5">
+        <div class="col-lg-4 aos-init aos-animate" data-aos="fade-up">
+          <div class="site-section-heading pb-0">
+            <h2 class="pb-0">{{ .heading }}</h2>
+          </div>
+        </div>
+      </div>
+
+      <ul class="display-5 aos-init aos-animate" data-aos="fade-up">
+        {{ range.list }}
+        <li>{{ . }}</li>
+        {{ end }}
+      </ul>
+    </div>
+
+    <div class="mt-5 d-flex justify-content-center">
+      <a
+        target="_blank"
+        rel="noopener noreferrer"
+        href="{{ .registerLink }}"
+        class="btn-custom buy-ticket-btn"
+        ><span>{{ .registerText }}</span></a
+      >
+    </div>
+  </div>
+</div>

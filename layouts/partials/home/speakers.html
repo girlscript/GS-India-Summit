@@ -1,0 +1,68 @@
+<section class="ftco-section">
+  <div class="container">
+    <div class="row justify-content-center mb-5 pb-3">
+      <div class="col-md-7 text-center heading-section ftco-animate">
+        <h2 class="mb-4 activey">{{ .heading }}</h2>
+      </div>
+    </div>
+    <div class="row">
+      <div class="col-md-12 ftco-animate">
+        <div class="carousel-testimony owl-carousel">
+          {{ range.list }}
+          <div class="item">
+            <div class="speaker">
+              <img
+                src="/images/{{ .image }}"
+                class="img-fluid"
+                alt="Colorlib HTML5 Template"
+              />
+              <div class="text text-center py-3">
+                <h3>{{ .name }}</h3>
+                <span class="text-uppercase position">{{ .position }}</span>
+                <h6 class="text-uppercase position text-primary">{{ .company }}</h6>
+                <ul class="ftco-social mt-3">
+                  {{ with.website }}
+                  <li class="ftco-animate">
+                    <a href="{{ . }}" target="_blank" rel="noopenner noreferrer"
+                      ><span class="icon-link"></span
+                    ></a>
+                  </li>
+                  {{ end }}
+                  {{ with.twitter }}
+                  <li class="ftco-animate">
+                    <a href="{{ . }}" target="_blank" rel="noopenner noreferrer"
+                      ><span class="icon-twitter"></span
+                    ></a>
+                  </li>
+                  {{ end }}
+                  {{ with.linkedIn }}
+                  <li class="ftco-animate">
+                    <a href="{{ . }}" target="_blank" rel="noopenner noreferrer"
+                      ><span class="icon-linkedin"></span
+                    ></a>
+                  </li>
+                  {{ end }}
+                  {{ with.facebook }}
+                  <li class="ftco-animate">
+                    <a href="{{ . }}" target="_blank" rel="noopenner noreferrer"
+                      ><span class="icon-facebook"></span
+                    ></a>
+                  </li>
+                  {{ end }}
+                  {{ with.instagram }}
+                  <li class="ftco-animate">
+                    <a href="{{ . }}" target="_blank" rel="noopenner noreferrer"
+                      ><span class="icon-instagram"></span
+                    ></a>
+                  </li>
+                  {{ end }}
+                </ul>
+              </div>
+            </div>
+          </div>
+          {{ end }}
+        </div>
+      </div>
+    </div>
+  </div>
+</section>

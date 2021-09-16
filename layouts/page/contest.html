@@ -1,0 +1,10 @@
+{{ define "main" }}
+{{ partial "navbar.html" . }}
+{{ partial "contest/hero.html" .Site.Data.contest.hero }}
+{{ partial "contest/poster.html" .Site.Data.contest.poster  }}
+{{ partial "contest/details.html" .Site.Data.contest.details }}
+{{ partial "contest/prizes.html" .Site.Data.contest.prizes }}
+{{ partial "loader.html" }}
+{{ partial "footer.html" .Site.Data.footer }}
+
+{{ end }}

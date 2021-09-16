@@ -1,0 +1,23 @@
+{{ define "main" }}
+<style>
+  .coordinator img {
+    max-width: 50px;
+    border-radius: 50%;
+  }
+  .testimony figure img {
+    margin: 0 auto;
+    max-width: 150px;
+    border-radius: 50%;
+  }
+</style>
+{{ partial "navbar.html" . }}
+{{ partial "hackathon/hero.html" .Site.Data.hackathon.hero  }}
+<!--{{ partial "hackathon/prize.html" .Site.Data.hackathon.prize }}-->
+{{ partial "hackathon/rules.html" .Site.Data.hackathon.rules }}
+{{ partial "hackathon/winners.html" .Site.Data.hackathon.winners }}
+{{ partial "hackathon/past.html" .Site.Data.hackathon.past }}
+{{ partial "hackathon/testimonial.html" .Site.Data.hackathon.testimonials }}
+{{ partial "footer.html" .Site.Data.footer }}
+{{ partial "loader.html" }}
+{{ end }}
+

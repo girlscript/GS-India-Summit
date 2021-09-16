@@ -1,0 +1,97 @@
+<div class="container">
+  <h3
+    class="text-white d-block caption aos-init aos-animate"
+    data-aos="fade-up"
+  >
+    - Special Prizes to All Girls Team
+  </h3>
+
+  <div class="site-section">
+    <div class="container" >
+      <div class="row mb-5">
+        <div class="col-lg-4 aos-init aos-animate" data-aos="fade-up">
+          <div class="site-section-heading pb-0">
+            <h2 class="pb-0">Rules</h2>
+          </div>
+        </div>
+      </div>
+
+      <ul class="display-5 aos-init aos-animate" data-aos="fade-up">
+        {{range.rules.list}}
+        <li>{{.description}}</li>
+        {{end}}
+      </ul>
+
+      <!--<div class="site-section" style="padding-top: 4em;">-->
+        <!--<div class="container">-->
+          <!--<div class="row mb-5">-->
+            <!--<div class="col-lg-4 aos-init aos-animate" data-aos="fade-up">-->
+              <!--<div class="site-section-heading">-->
+                <!--<h2 class="pb-0">Problem Statement</h2>-->
+              <!--</div>-->
+            <!--</div>-->
+          <!--</div>-->
+
+          <!--<div class="col-md-14 aos-init aos-animate" data-aos="fade-up">-->
+            <!--{{range.problemStatement.list}}-->
+            <!--<div class="container" style="padding-bottom: 45px;">-->
+              <!--<h3 class="text-white"> -->
+            <!--{{.heading}}-->
+            <!--</h3>-->
+            <!--<span class=""-->
+              <!-->{{.description1}}<br />-->
+              <!--{{.description2}}-->
+            <!--</span>-->
+            <!--<br class="mb-5"/>-->
+          <!--</div>-->
+            <!--{{end}}-->
+
+
+            <!--[><div class="site-section"><]-->
+              <!--[><div class="container"><]-->
+                <!--[><div class="row mb-5 pt-3"><]-->
+                  <!--[><div class="col-lg-4 aos-init aos-animate" data-aos="fade-up"><]-->
+                    <!--[><div class="site-section-heading"><]-->
+                      <!--[><h2 class="pb-0" ><]-->
+                        <!--[>Agenda<]-->
+                      <!--[></h2><]-->
+                    <!--[></div><]-->
+                  <!--[></div><]-->
+                <!--[></div><]-->
+
+                <!--[><div class="row align-items-stretch program"><]-->
+                  <!--[><div<]-->
+                    <!--[>class="col-11 border-top border-bottom py-5 aos-init aos-animate"<]-->
+                    <!--[>data-aos="fade"<]-->
+                    <!--[>data-aos-delay="200"<]-->
+                  <!--[>><]-->
+                    <!--[><div class="row align-items-stretch"><]-->
+                      <!--[><div class="col-md-3 text-white mb-3 mb-md-0"><]-->
+                        <!--[><span class="text-white h4">{{.agenda.date}}</span><]-->
+                      <!--[></div><]-->
+                      <!--[><div class="col-md-9"><]-->
+                        <!--[><span class="text-white h4">{{.agenda.type}}</span><]-->
+                      <!--[></div><]-->
+                    <!--[></div><]-->
+                    <!--[>{{range.agenda.list}}<]-->
+
+
+                    <!--[><div class="row align-items-stretch"><]-->
+                      <!--[><div class="col-md-3 text-white mb-3 mb-md-0 text-left"><]-->
+                        <!--[><span class="text-muted">{{.timing}}</span><]-->
+                      <!--[></div><]-->
+                      <!--[><div class="col-md-9"><]-->
+                        <!--[><span>{{.event}}</span><]-->
+                      <!--[></div><]-->
+                    <!--[></div><]-->
+                    <!--[>{{end}}<]-->
+                  <!--[></div><]-->
+                <!--[></div><]-->
+              <!--[></div><]-->
+            <!--[></div><]-->
+          <!--</div>-->
+        <!--</div>-->
+      <!--</div>-->
+    </div>
+  </div>
+</div>

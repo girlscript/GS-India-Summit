@@ -1,0 +1,45 @@
+{{range.list}}
+<div
+  class="site-section"
+  style="min-height: 100vh; padding: 5em 0 2em 0; background-color: white;"
+>
+  <div class="container">
+    <div class="row">
+  
+      <div
+        class="col-md-12 mb-5 aos-init aos-animate"
+        data-aos="fade-up"
+        data-aos-delay="200"
+      >
+        <div class="container cards">
+          <div class="pricing border-secondary text-center">
+              <img src="/images/{{ .image }}" class="img-fluid" style="max-height: 85vh;" />
+            <h1 class="display-4 text-primary setter pricee font-weight-normal">
+             
+            </h1>
+
+            <div class="p-4 table-responsive">
+              <table class="table text-left">
+                
+                <tr class="pt-1 register d-flex justify-content-center">
+                    {{.description}}
+                  
+                  <td class="">
+                <br/>
+                
+               <a href="{{ .link}}" class="text-primary btn btn-primary mt-3 text-center">{{ .linktext }}</a>
+            </td>
+
+                  
+                </tr>
+             
+              </table>
+            </div>
+          </div>
+        </div>
+      </div>
+     
+    </div>
+  </div>
+</div>
+{{end}}

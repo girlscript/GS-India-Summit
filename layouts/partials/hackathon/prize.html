@@ -1,0 +1,38 @@
+<div
+  class="site-section ff"
+  style="min-height: 100vh; background-color: white;"
+>
+  <h1 class="text-dark text-center site-section-heading pb-5">Prizes</h1>
+
+  <div class="container">
+    <div class="row">
+      {{ range.list }}
+
+
+      <div
+        class="col-md-4 sm-12 col-lg-4 mb-5 aos-init aos-animate"
+        data-aos="fade-up"
+        data-aos-delay="300"
+      >
+        <div class="container cards">
+          <div class="pricing border-secondary text-center">
+            <h1 class="display-4 text-primary setter pricee font-weight-normal">
+              {{.heading}}
+            </h1>
+
+            <ul class="display-5 list-unstyled mb-5">
+              <li class="pt-1">{{.cashprize}}</li>
+              <li class="pt-1">{{.goodies}}</li>
+              <li class="pt-1">{{.subscription}}</li>
+              <li class="pt-1">{{.plans}}</li>
+              <li class="pt-1">{{.addons}}</li>
+              <li class="pt-1">{{.swags}}</li>
+            </ul>
+          </div>
+        </div>
+      </div>
+      {{end}}
+
+    </div>
+  </div>
+</div>

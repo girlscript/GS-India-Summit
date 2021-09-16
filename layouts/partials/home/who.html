@@ -1,0 +1,41 @@
+<div class="site-section" style="color: black;">
+  <div class="container">
+    <div class="row mb-5">
+      <div class="col-lg-4">
+        <div class="site-section-heading">
+          <h2>{{ .heading }}</h2>
+        </div>
+      </div>
+      <div class="col-lg-5 mt-3 pl-lg-5">
+        <p class="text-white">
+          {{ .text }} 
+        </p>
+      </div>
+    </div>
+    <div class="row">
+      <div class="col-md-4" data-aos="fade-up" data-aos-delay="400">
+        <span class="text-primary">{{ .motoHeading }}</span>
+      </div>
+      <div class="col-md-6" data-aos="fade-up" data-aos-delay="500">
+        <p>
+          <ol class="text-white">
+            {{ range.motoList }}
+            <li>{{ . }}</li>
+            {{ end }}
+          </ol>
+        </p>
+      </div>
+    </div>
+
+    <div class="row" data-aos="fade-up" data-aos-delay="600">
+      {{ range.statsList }}
+      <div class="col-12 col-md-6 py-4">
+        <h5 class="text-white text-center">{{ .title }}</h5>
+        <div class="progress-meter">
+          <div class="progress-meter-fill" style="width: {{ .progress }}%"></div>
+        </div>
+      </div>
+      {{ end }}
+    </div>
+  </div>
+</div>

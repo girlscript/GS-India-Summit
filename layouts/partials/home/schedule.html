@@ -1,0 +1,56 @@
+{{/*  <section class="site-section">
+  <div class="container">
+    <div class="row justify-content-center mb-5 pb-3">
+      <div class="col-md-7 text-center heading-section ftco-animate">
+        <h2 class="mb-4 activey">
+          {{ .heading }}
+        </h2>
+      </div>
+    </div>
+
+    <div class="row" style="justify-content: center;">
+      <div class="col-12">
+      {{ range .list }}
+        <div class="mb-4">
+          <h3 class="text-white">{{ .heading }}</h3>
+          <div style="border-top: 2px solid #ef6700; width: auto;"></div>
+          <div class="table-responsive">
+            <table class="table text-left table-dark table-hover">
+              <thead>
+                <tr class="d-flex">
+                  {{ if isset . "subheading3" }}
+                  <th style="flex: 1" class="col" style="font-size: larger;">{{ .subheading1 }}</th>
+                  <th style="flex: 1" class="col" style="font-size: larger;">{{ .subheading2 }}</th>
+                  <th style="flex: 3" class="col" style="font-size: larger;">{{ .subheading3 }}</th>
+                  {{ else }}
+                  <th style="flex: 1" class="col" style="font-size: larger;">{{ .subheading1 }}</th>
+                  <th style="flex: 3" class="col" style="font-size: larger;">{{ .subheading2 }}</th>
+                  {{ end }}
+                </tr>
+              </thead>
+              <tbody>
+                {{ if isset . "subheading3" }}
+                {{ range.list }}
+                <tr class="d-flex">
+                  <td style="flex: 1">{{.date}}</td>
+                  <td style="flex: 1">{{.time}}</td>
+                  <td style="flex: 3">{{.event}}</td>
+                </tr>
+                {{ end }}
+                {{ else }}
+                {{ range.list }}
+                <tr class="d-flex">
+                  <td style="flex: 1">{{.date}}</td>
+                  <td style="flex: 3">{{.event}}</td>
+                </tr>
+                {{ end }}
+                {{ end }}
+              </tbody>
+            </table>
+          </div>
+        </div>
+      {{ end }}
+      </div>
+    </div>
+  </div>
+</section>  */}}

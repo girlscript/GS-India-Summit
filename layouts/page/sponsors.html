@@ -1,0 +1,11 @@
+{{ define "main" }}
+{{ partial "navbar.html" . }}
+{{ partial "sponsors/hero.html" }}
+{{ partial "sponsors/content.html" .Site.Data.sponsors.content }}
+{{ partial "sponsors/motto.html" .Site.Data.sponsors.motto }}
+{{ partial "sponsors/pastevent.html" .Site.Data.sponsors.past }}
+{{ partial "sponsors.html" (dict "sponsors" .Site.Data.currentSponsors "partners" .Site.Data.currentPartners) }}
+<!-- {{ partial "sponsors.html" (dict "sponsors" .Site.Data.sponsors "partners" .Site.Data.partners) }} -->
+{{ partial "footer.html" .Site.Data.footer }}
+{{ partial "loader.html" }}
+{{ end }}

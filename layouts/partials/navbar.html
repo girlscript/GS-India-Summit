@@ -1,0 +1,84 @@
+<nav
+  class="navbar navbar-expand-lg navbar-dark ftco_navbar bg-dark ftco-navbar-light"
+  id="ftco-navbar"
+>
+  <div class="container-fluid">
+    <a class="navbar-brand" href="index.html" style="color: #fff;">
+      <img
+        alt="Girlscript Summit Logo"
+        width="200"
+        src="/images/{{ .Site.Data.navbar.logo }}"
+      />
+    </a>
+    <button
+      class="navbar-toggler"
+      type="button"
+      data-toggle="collapse"
+      data-target="#ftco-nav"
+      aria-controls="ftco-nav"
+      aria-expanded="false"
+      aria-label="Toggle navigation"
+    >
+      <span class="oi oi-menu"></span> Menu
+    </button>
+
+    <div class="collapse navbar-collapse" id="ftco-nav">
+      <ul class="navbar-nav ml-auto">
+        {{ range.Site.Data.navbar.list }}
+
+        {{ if .isAction }}
+        <li class="nav-item cta mr-md-2">
+          {{ if (eq $.RelPermalink .link) }}
+          <a
+            href="{{ .link }}"
+            class="nav-link activex"
+            >{{ .name }}</a
+          >
+          {{ else }}
+          <a
+            href="{{ .link }}"
+            class="nav-link"
+            >{{ .name }}</a
+          >
+          {{ end }}
+        </li>
+        {{ else }}
+
+        <li class="nav-item">
+          {{ if (eq $.RelPermalink .link) }}
+          <a
+            href="{{ .link }}"
+            class="nav-link active-index activex"
+            >{{ .name }}</a
+          >
+          {{ else }}
+          <a href="{{ .link }}" class="nav-link active-index">{{ .name }}</a>
+          {{ end }}
+        </li>
+        {{ end }}
+        {{ end }}
+        <!--<li class="nav-item">-->
+        <!--<a href="/sponsors" class="nav-link active-index">SPONSORS</a>-->
+        <!--</li>-->
+        <!--<li class="nav-item">-->
+        <!--<a href="/hackathon" class="nav-link active-index">HACKATHON</a>-->
+        <!--</li>-->
+        <!--<li class="nav-item">-->
+        <!--<a href="/contest" class="nav-link active-index">CONTEST</a>-->
+        <!--</li>-->
+        <!--<li class="nav-item">-->
+        <!--<a href="/about" class="nav-link active-index">ABOUT US</a>-->
+        <!--</li>-->
+        <!--<li class="nav-item">-->
+        <!--<a href="/speakers" class="nav-link active-index">SPEAKERS</a>-->
+        <!--</li>-->
+        <!--<li class="nav-item">-->
+        <!--<a href="/gallery" class="nav-link active-index">GALLERY</a>-->
+        <!--</li>-->
+        <!--<li class="nav-item">-->
+        <!--<a href="/contact" class="nav-link active-index">CONTACT</a>-->
+        <!--</li>-->
+      </ul>
+    </div>
+  </div>
+</nav>

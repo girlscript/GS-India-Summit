@@ -1,0 +1,43 @@
+<section class="ftco-section bg-light" id="ticket-pricing">
+  <div class="container">
+    <div class="row justify-content-center mb-5 pb-3">
+      <div class="col-md-7 heading-section ftco-animate text-center">
+        <h2 class="mb-1 activey"><span>Our</span> Ticket Pricing</h2>
+      </div>
+    </div>
+    <div class="row">
+      {{range.list}}
+      <div class="col-md-6 ftco-animate">
+        <div class="block-7">
+          <div class="text-center">
+            <h2 class="heading">{{.title}}</h2>
+            <span class="price"
+              ><sup>RS</sup> <span class="number">{{.price}}</span></span
+            >
+            <!-- <span class="excerpt d-block">per Month</span> -->
+
+            <h3 class="heading-2 my-4 text-body">{{.subheading}}</h3>
+
+            <ul class="pricing-text mb-5">
+              {{range.description}}
+              <li>{{.info}}</li>
+              {{end}}
+            </ul>
+
+            {{ if.buyTicketLink }}
+            <a target="_blank" 
+               rel="noopenner noreferrer"
+               href="{{.buyTicketLink}}" 
+               class="btn btn-primary d-block px-2 py-3">Buy Ticket</a>
+            {{ else }}
+            <button disabled
+               class="btn btn-primary d-block px-2 py-3">Sold Out</button>
+            {{ end }}
+          </div>
+        </div>
+      </div>
+      {{end}}
+     
+    </div>
+  </div>
+</section>

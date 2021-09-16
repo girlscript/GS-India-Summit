@@ -1,0 +1,46 @@
+<div class="site-section">
+  <div class="container">
+    
+      <div class="row mb-5">
+    <div class="col-lg-4 mb-5">
+      <div
+        class="site-section-heading aos-init aos-animate"
+        data-aos="fade-up"
+      >
+        <h2 class="text-start">{{ .heading }}</h2>
+      </div>
+    </div>
+  </div>
+    <div class="row mb-5">
+      {{ range.list }}
+      <div
+        class="col-md-6 col-lg-4 mb-5 mb-lg-5 aos-init aos-animate"
+        data-aos="fade-up"
+        data-aos-delay="400"
+      >
+        <div class="testimony text-center">
+          <figure>
+            
+            <img
+              src="/images/{{ .image }}"
+              alt="{{ .name }}"
+              class="img-fluid"
+            />
+          </figure>
+          <blockquote>
+            <p class="author mb-0">{{ .name }}</p>
+            <p class="text-muted mb-4">{{ .position }}</p>
+            <span
+              class="text-uppercase text-primary d-block mb-3 aos-init aos-animate"
+              data-aos="fade-right"
+              data-aos-delay="300"
+              >{{ .company }}</span
+            >
+            <p></p>
+          </blockquote>
+        </div>
+      </div>
+      {{ end }}
+    </div>
+  </div>
+</div>

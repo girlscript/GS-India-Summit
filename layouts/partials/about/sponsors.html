@@ -1,0 +1,55 @@
+<section class="hero-wrap hero-wrap-2  mt-5 pt-5" data-stellar-background-ratio="0.5">
+  <div class=""></div>
+  <div class="container">
+    <div
+      class="row no-gutters slider-text align-items-end justify-content-start"
+    >
+      <div class="col-md-9 ftco-animate">
+        <div
+          class="site-section-heading"
+          data-aos="fade-up"
+          data-aos-delay="100"
+        >
+          <h2>{{.heading}}</h2>
+        </div>
+      </div>
+    </div>
+  </div>
+</section>
+
+<div class="site-section">
+  <div class="container">
+    <div class="row mb-5">
+      <div
+        class="col-lg-6 mt-3 pl-lg-5"
+        data-aos="fade-up"
+        data-aos-delay="100"
+      >
+        <p>
+         {{.description}}
+        </p>
+      </div>
+    </div>
+    <div class="row" style="padding-bottom: 10em;">
+      {{range.list}}
+      <div
+        class="col-md-6 col-lg-4 mb-5 mb-lg-0"
+        data-aos="fade"
+        data-aos-delay="200"
+      >
+        <img src="/images/{{ .image }}" alt="Image" class="img-fluid" />
+      </div>
+      {{end}}
+     
+
+      <div
+        class="col-lg-6 mt-3 pl-lg-5"
+        data-aos="fade-up"
+        data-aos-delay="100"
+      >
+        
+        <p></p>
+      </div>
+    </div>
+  </div>
+</div>

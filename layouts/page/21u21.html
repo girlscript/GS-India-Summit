@@ -1,0 +1,21 @@
+{{ define "main" }}
+<style>
+  .coordinator img {
+    max-width: 50px;
+    border-radius: 50%;
+  }
+  .testimony figure img {
+    margin: 0 auto;
+    max-width: 150px;
+    border-radius: 50%;
+  }
+</style>
+{{ partial "navbar.html" . }}
+{{ partial "21u21/hero.html" .Site.Data.u21.hero }}
+{{ partial "21u21/what.html" .Site.Data.u21.what }}
+{{ partial "21u21/benefits.html" .Site.Data.u21.benefits }}
+{{ partial "21u21/list.html" .Site.Data.u21.list }}
+{{ partial "loader.html" }}
+{{ partial "footer.html" .Site.Data.footer }}
+
+{{ end }}

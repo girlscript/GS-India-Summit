@@ -1,0 +1,44 @@
+{{ define "main" }}
+<style type="text/css">
+  .img-fluid {
+    max-width: 100%;
+    height: auto;
+  }
+
+  img {
+    vertical-align: middle;
+    border-style: none;
+  }
+  .testimony {
+    max-width: 500px;
+  }
+  .testimony figure img {
+    margin: 0 auto;
+    max-width: 150px;
+    border-radius: 50%;
+  }
+  html {
+    padding: 0 !important;
+    margin: 0 !important;
+  }
+  body {
+    padding: 0 !important;
+    margin: 0 !important;
+  }
+  .row {
+    margin: 0 !important;
+  }
+</style>
+
+{{ partial "navbar.html" . }}
+{{ partial "speakers/hero.html" .Site.Data.speakers.hero }}
+{{ partial "speakers/currentSpeakers" .Site.Data.speakers.currentSpeakers}}
+{{ partial "speakers/panelist.html" .Site.Data.speakers.currentPanelist }}
+<!--{{ partial "speakers/list.html" .Site.Data.speakers.speakers }}-->
+<!--{{ partial "speakers/panelist.html" .Site.Data.speakers.panelist }} -->
+<!--{{ partial "speakers/past.html" .Site.Data.speakers.past }}-->
+<!--{{ partial "speakers/programs.html" .Site.Data.speakers.programs }}-->
+<!--{{ partial "speakers/testimonial.html" .Site.Data.home.testimonial }}-->
+{{ partial "footer.html" .Site.Data.footer }}
+{{ partial "loader.html" }}
+{{ end }}

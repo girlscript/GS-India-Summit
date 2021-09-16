@@ -1,0 +1,47 @@
+<div class="site-section" style="padding-top: 10em;">
+  <div class="container">
+    <div class="row mb-5 justify-content-center">
+      <div class="col-lg-4 mb-5">
+        <div class="site-section-heading" data-aos="fade-up">
+          <h2 class="text-center text-white h2x">{{.heading}}</h2>
+        </div>
+      </div>
+    </div>
+
+    <div class="row">
+      {{ range.list }}
+
+      <div
+        class="col-md-6 col-lg-4 mb-5 mb-lg-5"
+        data-aos="fade-up"
+        data-aos-delay="100"
+      >
+        <div class="testimony text-center">
+          <figure>
+            <img src="/images/{{ .image }}" alt="Image" class="img-fluid" />
+          </figure>
+          <blockquote>
+            <p class="author mb-0">{{.author}}</p>
+            <p class="text-muted mb-4">{{.position}}</p>
+            <p></p>
+            <a
+              target="_blank"
+              rel="noopenner noreferrer"
+              href="{{.linkedin}}"
+              class="p-2 text-primary"
+              ><span class="icon-linkedin"></span
+            ></a>
+            <a
+              target="_blank"
+              rel="noopenner noreferrer"
+              href="{{.twitter}}"
+              class="p-2 text-primary"
+              ><span class="icon-twitter"></span
+            ></a>
+          </blockquote>
+        </div>
+      </div>
+      {{ end }}
+    </div>
+  </div>
+</div>

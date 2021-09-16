@@ -1,0 +1,24 @@
+<section class="ftco-section testimony-section">
+  <div class="container">
+    <div class="row justify-content-center mb-5 pb-3">
+      <div class="col-md-7 text-center heading-section ftco-animate">
+        <h2 class="font-weight-normal text-white activey">{{.heading}}</h2>
+        <!-- <h2 class="mb-4"><span>Happy</span> Clients</h2> -->
+      </div>
+    </div>
+    <div class="event-section ftco-animate">
+      {{ range.list }}
+      <div class="event-section-item mb-4">
+        <div
+          class="event-section-item-image mb-2"
+          style="background-image: url('/images/{{ .img }}')"
+        ></div>
+        <div class="p-4">
+          <h4 class="text-white text-center">{{ .name }}</h4>
+          <h5 class="text-white text-center">{{ .place }}</h5>
+        </div>
+      </div>
+      {{ end }}
+    </div>
+  </div>
+</section>

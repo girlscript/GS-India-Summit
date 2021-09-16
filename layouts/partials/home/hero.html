@@ -1,0 +1,53 @@
+<div
+  class="hero-wrap hero-wrap-2 site-hero inner bg-home"
+  data-stellar-background-ratio="0.5"
+  style="background-image: url('/images/{{ .bgImg }}')"
+>
+  <div class="container">
+    <div
+      class="row content-hero slider-text align-items-center justify-content-center"
+      data-scrollax-parent="true"
+    >
+      <div class="col-xl-11 mt-5 ftco-animate">
+        <span class="text-white"
+          ><span
+            class="text-white too aos-init aos-animate"
+            data-aos="fade-up"
+            data-aos-delay="100"
+            >GirlScript Foundation presents</span
+          >
+          <br />
+          <h1 class="hed" data-aos="fade-up" data-aos-delay="200">
+            {{ .heading }}
+          </h1>
+          <p
+            class="mb-4 mt-2 motto"
+            style="color: f50808; font-family: sans; font-weight: 400;"
+            data-aos-delay="300"
+          >
+            {{ .date }}
+            <span
+              style="color: #7e87f9 !important;"
+              id="small"
+              data-aos-delay="400"
+              >{{ .highlightedAddress }}</span
+            >
+            {{ .address }}
+          </p>
+        </span>
+
+        <div class="mt-5 yo">
+          <a href="{{ .ticketsLink }}" class="btn-custom buy-ticket-btn"
+            ><span>Know More</span></a
+          >
+        </div>
+        <!-- <div id="timer" class="d-flex mb-3"> -->
+        <!-- <div class="time" id="days"></div> -->
+        <!-- <div class="time pl-4" id="hours"></div> -->
+        <!-- <div class="time pl-4" id="minutes"></div> -->
+        <!-- <div class="time pl-4" id="seconds"></div> -->
+        <!-- </div> -->
+      </div>
+    </div>
+  </div>
+</div>

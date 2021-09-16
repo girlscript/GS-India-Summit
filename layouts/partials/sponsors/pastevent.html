@@ -1,0 +1,68 @@
+<section class="services-section sponsor">
+    <div class="container">
+      <div class="row">
+     
+  
+        <div class="site-section">
+          <div class="container">
+            
+            <div class="row">
+  
+              <div class="site-section">
+                <div class="container">
+                  <div class="row mb-5 mt-5">
+                    <div class="col-lg-4">
+                      <div
+                        class="site-section-heading aos-init aos-animate"
+                        data-aos="fade-up"
+                      >
+                        <h2 class="pt-3">{{ .Heading }}</h2>
+                      </div>
+                    </div>
+                    <div
+                      class="col-lg-6 mt-5 pl-lg-5 aos-init aos-animate"
+                      data-aos="fade-up"
+                      data-aos-delay="100"
+                    >
+                      <p></p>
+                    </div>
+                  </div>
+                  <div class="row mb-5">
+                    {{ range.list }}
+                    <div
+                      class="col-md-6 col-lg-4 mb-5 mb-lg-0 mt-5 aos-init aos-animate"
+                      data-aos="fade"
+                      data-aos-delay="200"
+                    >
+                      <div class="testimony text-center mb-4 mt-4">
+                        <img
+                          src="/images/{{ .image }}"
+                          alt="{{ .name }}"
+                          class="img-fluid"
+                          width="{{ .imageWidth }}"
+                          style="max-height: 200px;"
+                        />
+                        <blockquote>
+                          <p class="author mb-0 " data-aos="fade-right"
+                          data-aos-delay="300">{{ .name }}</p>
+                          <span
+                            class="text-uppercase text-primary d-block mb-3 aos-init aos-animate"
+                            data-aos="fade-right"
+                            data-aos-delay="300"
+                            >{{ .text }}</span
+                          >
+                          <p></p>
+                        </blockquote>
+                      </div>
+                    </div>
+                    {{ end }}
+                  </div>
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+  </section>
+  

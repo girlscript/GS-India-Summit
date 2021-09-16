@@ -1,0 +1,40 @@
+<section class="ftco-section bg-light">
+  <div class="container">
+    <div class="row justify-content-center mb-5 pb-3">
+      <div class="col-md-7 heading-section text-center ftco-animate">
+        <h2 class="activey">{{ .heading }}</h2>
+      </div>
+    </div>
+    <div class="row d-flex">
+      {{ range.list }}
+      <div class="col-md-4 d-flex ftco-animate">
+        <div class="blog-entry justify-content-end">
+          <a
+            href="{{ .link }}"
+            class="block-20"
+            style="background-image: url('images/{{ .image }}');"
+          >
+          </a>
+          <div class="text p-4 float-right d-block">
+            <div class="d-flex align-items-center pt-2 mb-4">
+              <div class="one">
+                <span class="day">{{ .day }}</span>
+              </div>
+              <div class="two">
+                <span class="yr">{{ .year }}</span>
+                <span class="mos">{{ .month }}</span>
+              </div>
+            </div>
+            <h3 class="heading mt-2">
+              <a href="{{ .link }}">{{ .title }}</a>
+            </h3>
+            <p>
+              {{ .text }}
+            </p>
+          </div>
+        </div>
+      </div>
+      {{ end }}
+    </div>
+  </div>
+</section>

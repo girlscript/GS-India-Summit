@@ -1,0 +1,19 @@
+{{ define "main" }}
+
+{{ partial "navbar.html" . }}
+{{ partial "home/hero.html" .Site.Data.home.hero }}
+{{ partial "home/who.html" .Site.Data.home.who }}
+<!-- {{ partial "home/schedule.html" .Site.Data.home.schedule }} -->
+{{ partial "home/events.html" .Site.Data.home.events }}
+{{ partial "home/panelist.html" .Site.Data.home.panelist }}
+{{ partial "home/speakers.html" .Site.Data.home.speakers }}
+{{ partial "sponsors.html" (dict "sponsors" .Site.Data.currentSponsors "partners" .Site.Data.currentPartners) }} 
+{{ partial "sponsors.html" (dict "sponsors" .Site.Data.sponsors ) }}
+<!--{{ partial "home/testimonial.html" .Site.Data.home.testimonial }} -->
+<!--{{ partial "home/ticket.html" .Site.Data.home.ticket }}-->
+<!--{{ partial "home/recent.html" .Site.Data.home.recent }}-->
+<!--{{ partial "home/gallery.html" .Site.Data.home.gallery }}-->
+{{ partial "footer.html" .Site.Data.footer }}
+{{ partial "loader.html" }}
+
+{{ end }}

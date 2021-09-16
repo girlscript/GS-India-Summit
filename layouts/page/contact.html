@@ -1,0 +1,79 @@
+{{ define "main" }}
+{{ partial "navbar.html" . }}
+{{ partial "contact/hero.html" .Site.Data.contact.hero }}
+{{ partial "contact/form.html" .Site.Data.contact.form }}
+{{ partial "footer.html" .Site.Data.footer }}
+{{ partial "loader.html" }}
+
+{{ end }}
+
+{{ define "script" }}
+<script>
+  $("#validateForm").bootstrapValidator({
+    feedbackIcons: {
+      valid: "glyphicon glyphicon-ok",
+      invalid: "glyphicon glyphicon-remove",
+      validating: "glyphicon glyphicon-refresh",
+    },
+    
+    fields: {
+      firstName: {
+        validators: {
+          stringLength: {
+            min: 5,
+            message:
+              "Please Enter your First name with minimum 5 letters length",
+          },
+          notEmpty: {
+            message: "Please Enter your First name",
+          },
+        },
+      },
+      lastName: {
+        validators: {
+          stringLength: {
+            min: 5,
+            message:
+              "Please Enter your last name with minimum 5 letters length",
+          },
+          notEmpty: {
+            message: "Please Enter your last name",
+          },
+        },
+      },
+      textarea: {
+        validators: {
+          stringLength: {
+            min: 5,
+            message: "Please Enter message",
+          },
+          notEmpty: {
+            message: "Please Enter message",
+          },
+        },
+      },
+      subject: {
+        validators: {
+          stringLength: {
+            min: 5,
+            message: "Please Enter subject",
+          },
+          notEmpty: {
+            message: "Please Enter subject",
+          },
+        },
+      },
+      email: {
+        validators: {
+          notEmpty: {
+            message: "Please Enter your email address",
+          },
+          emailAddress: {
+            message: "Please Enter a valid email address",
+          },
+        },
+      },
+    },
+  });
+</script>
+{{ end }}

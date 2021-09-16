@@ -1,0 +1,51 @@
+<section class="site-section">
+  <div class="container">
+    <div class="row justify-content-center mb-5 pb-3">
+      <div class="col-md-7 text-center heading-section ftco-animate">
+        <h2 class="mb-4 activey">
+          {{ .heading }}
+        </h2>
+      </div>
+    </div>
+
+    <div class="row">
+      {{ range.list }}
+
+      <div
+        class="col-md-6 col-lg-4 mb-5 mb-lg-5"
+        data-aos="fade-up"
+        data-aos-delay="100"
+      >
+        <div class="testimony text-center">
+          <figure>
+            <img src="/images/{{ .image }}" alt="Image" class="img-fluid" />
+          </figure>
+          <blockquote>
+            <p class="author mb-0">{{.name}}</p>
+            <p class="text-muted mb-4">{{.college}}</p>
+            <p></p>
+            {{ with.linkedin }}
+            <a
+              target="_blank"
+              rel="noopenner noreferrer"
+              href="{{.}}"
+              class="p-2 text-primary"
+              ><span class="icon-linkedin"></span
+            ></a>
+            {{ end }}
+            {{ with.twitter }}
+            <a
+              target="_blank"
+              rel="noopenner noreferrer"
+              href="{{.}}"
+              class="p-2 text-primary"
+              ><span class="icon-twitter"></span
+            ></a>
+            {{ end }}
+          </blockquote>
+        </div>
+      </div>
+      {{ end }}
+    </div>
+  </div>
+</section>

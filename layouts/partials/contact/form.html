@@ -1,0 +1,166 @@
+<div class="site-section">
+  <div class="container">
+    <div class="row">
+      <div class="col-md-7">
+        <div class="container outer">
+          <form action="#" class="custom-form" id="validateForm">
+            <h3 class="text-center font-weight-bold">
+              {{.formTitle}}
+            </h3>
+            <div class="container">
+              <div
+                class="combine"
+                style="display: flex; justify-content: space-between;"
+              >
+                <div class="form-group row">
+                  <input
+                    type="text"
+                    class="form-control"
+                    name="firstName"
+                    id="validationCustom01"
+                    ng-model="firstName"
+                    placeholder="First Name"
+                    required
+                  />
+                  <label
+                    for="validationCustom01"
+                    class="animated-label"
+                  ></label>
+                </div>
+                <div class="form-group row">
+                  <input
+                    type="text"
+                    class="form-control"
+                    name="lastName"
+                    id="validationCustom02"
+                    ng-model="lastName"
+                    placeholder="Last Name"
+                    required
+                  />
+                  <label
+                    for="validationCustom02"
+                    class="animated-label"
+                  ></label>
+                </div>
+              </div>
+              <div class="form-group row">
+                <input
+                  type="email"
+                  class="form-control"
+                  name="email"
+                  id="email"
+                  ng-model="email"
+                  placeholder="Email"
+                  required
+                />
+                <label for="email" class="animated-label"></label>
+              </div>
+              <div class="form-group row">
+                <input
+                  type="text"
+                  class="form-control"
+                  name="subject"
+                  id="subject"
+                  ng-model="subject"
+                  placeholder="Subject"
+                  required
+                />
+                <label for="subject" class="animated-label"></label>
+              </div>
+              <div class="form-group row">
+                <textarea
+                  type="text"
+                  class="form-control"
+                  name="textarea"
+                  id="area"
+                  cols="30"
+                  rows="4"
+                  ng-model="area"
+                  placeholder="Message"
+                  required
+                ></textarea>
+                <label for="area" class="animated-label"></label>
+              </div>
+              <div class="submit">
+                <button class="btn btn-primary btn-block pt-2" type="submit">
+                  Send
+                </button>
+              </div>
+            </div>
+          </form>
+        </div>
+
+        <!--<form action="#">
+
+
+              <div class="row form-group">
+                <div class="col-md-6 mb-3 mb-md-0">
+                  
+                  <input type="text" id="fname" class="form-control" placeholder="First Name" class="inputt">
+                </div>
+                <div class="col-md-6">
+                  
+                  <input type="text" id="lname" class="form-control" placeholder="Last Name">
+                </div>
+              </div>
+
+              <div class="row form-group">
+
+                <div class="col-md-12">
+                  
+                  <input type="email" id="email" class="form-control" placeholder="Email">
+                </div>
+              </div>
+
+              <div class="row form-group">
+
+                <div class="col-md-12">
+                  
+                  <input type="subject" id="subject" class="form-control" placeholder="Subject">
+                </div>
+              </div>
+
+              <div class="row form-group">
+                <div class="col-md-12">
+                  
+                  <textarea name="message" id="message" cols="30" rows="7" class="form-control" style="border: 1px solid #59b7ff"></textarea>
+                </div>
+              </div>
+
+              <div class="row form-group">
+                <div class="col-md-12">
+                  <input type="submit" value="Send Message" class="btn btn-primary py-2 px-4 text-white">
+                </div>
+              </div>
+
+
+            </form>
+          -->
+      </div>
+      <div class="col-md-5 ml-auto" data-aos="fade-up" data-aos-delay="100">
+        <div class="p-4 mb-3">
+          <p class="mb-0 font-weight-bold text-secondary text-uppercase mb-3">
+            Address
+          </p>
+          <p class="mb-4">
+            {{.address}}
+          </p>
+
+          <p class="mb-0 font-weight-bold text-secondary text-uppercase mb-3">
+            Phone
+          </p>
+          <p class="mb-4">
+            <a href="tel:{{.phone}}">{{.phone}}</a>
+          </p>
+
+          <p class="mb-0 font-weight-bold text-secondary text-uppercase mb-3">
+            Email Address
+          </p>
+          <p class="mb-0">
+            <a href="mailto:{{.email}}">{{.email}}</a>
+          </p>
+        </div>
+      </div>
+    </div>
+  </div>
+</div>

@@ -1,0 +1,7 @@
+{{ define "main" }}
+{{ partial "navbar.html" . }}
+{{ partial "gallery/hero.html" .Site.Data.gallery.hero }}
+{{ partial "gallery/gallery.html" .Site.Data.gallery.gallery }}
+{{ partial "footer.html" .Site.Data.footer }}
+{{ partial "loader.html" }}
+{{ end }}
