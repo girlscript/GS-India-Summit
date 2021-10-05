@@ -1,2 +1,18 @@
 {
-}
+    "sponsorHeading": "Our Partners",
+    "list": [
+      {
+        "name": "StickerMule",
+        "image": "stickermule.png",
+        "text": "Schwags Partner (Regional Summit)",
+        "imageWidth": "130"
+      },
+      {
+        "name": "KonfHub",
+        "image": "konfhub.jpg",
+        "text": "Ticketing Partner",
+        "imageWidth": ""
+      }
+    ]
+  }
+  
