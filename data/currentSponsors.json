@@ -4,14 +4,16 @@
       {
         "name": "StickerMule",
         "image": "stickermule.png",
+        "link": "https://mule.to/p29k",
         "text": "Schwags Partner (Regional Summit)",
         "imageWidth": "130"
       },
       {
         "name": "KonfHub",
         "image": "konfhub.jpg",
+        "link": "",
         "text": "Ticketing Partner",
-        "imageWidth": ""
+        "imageWidth": "170"
       }
     ]
   }

@@ -77,21 +77,23 @@
             data-aos-delay="200"
           >
             <div class="testimony text-center">
+              <a href="{{ .link}}" target="_blank">
               <img
                 src="/images/{{ .image }}"
                 alt="{{ .name }}"
                 class="img-fluid"
                 width="{{ .imageWidth }}"
                 height="{{ .imageHeight }}"
-              />
+              /></a>
               <blockquote>
                 <p class="author mb-0">{{ .name }}</p>
                 <span
                   class="text-uppercase text-primary d-block mb-3 aos-init aos-animate"
                   data-aos="fade-right"
                   data-aos-delay="300"
-                  >{{ .text }}</span
-                >
+                  >{{ .text }}
+                </span>
+
                 <p></p>
               </blockquote>
             </div>
