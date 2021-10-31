@@ -14,7 +14,14 @@
         "link": "",
         "text": "Ticketing Partner",
         "imageWidth": "170"
-      }
+      },
+      {
+        "name": "Microsoft",
+        "image": "microsoft.png",
+        "link": "",
+        "text": "Learning Partner",
+        "imageWidth": "170"
+      },
     ]
   }
   
