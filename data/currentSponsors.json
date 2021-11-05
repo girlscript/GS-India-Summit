@@ -2,6 +2,13 @@
     "sponsorHeading": "Our Partners",
     "list": [
       {
+        "name": "Devpost",
+        "image": "devpost.jpeg",
+        "link": "",
+        "text": "Hackathon Partner",
+        "imageWidth": "150"
+      },
+      {
         "name": "StickerMule",
         "image": "stickermule.png",
         "link": "https://mule.to/p29k",
