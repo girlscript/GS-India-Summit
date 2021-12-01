@@ -3,15 +3,15 @@
     "heading": "Rules",
     "list": [
       {
-        "description": "Total duration of hackathon is 12 hours."
+        "description": "Participant must register for the GirlScript India Summit 2021."
       },
       {
-        "description": "Must register for the Summit, to participate in the Hackathon."
+        "description": "Team can consist of 2-5 members."
       },
-      { "description": "Group of 3-5 members per team." },
+      { "description": "Every team should have at least 1 girl participant." },
       { "description": "At least 1 Girl member in each team." },
       {
-        "description": "The theme is #HackForWomen, more details will be updated soon."
+        "description": "Don’t worry if you don’t have a team, we’ll help you in team information."
       }
     ]
   },
