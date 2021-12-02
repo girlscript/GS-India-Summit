@@ -5,13 +5,13 @@
       "name": "Github",
       "image": "github.png",
       "text": "Community Partner",
-      "imageWidth": "130"
+      "imageWidth": "150"
     },
     {
       "name": "KonfHub",
       "image": "konfhub.jpg",
       "text": "Ticketing Partner",
-      "imageWidth": ""
+      "imageWidth": "150"
     },
     {
       "name": "IncubateIND",
@@ -23,7 +23,7 @@
       "name": "O'REILLY",
       "image": "oreilly.jpg",
       "text": "Online Learning Partner",
-      "imageWidth": ""
+      "imageWidth": "150"
     },
     {
       "name": "Zebronics",
@@ -35,13 +35,13 @@
       "name": "Coding Ninjas",
       "image": "coding_ninjas.png",
       "text": "Outreach Partner",
-      "imageWidth": "130"
+      "imageWidth": "150"
     },
     {
       "name": "Balsamiq",
       "image": "balsamiq.jpg",
       "text": "Online Product Partner",
-      "imageWidth": ""
+      "imageWidth": "150"
     },
     {
       "name": "Your Story",
@@ -53,7 +53,7 @@
       "name": "Hiatus",
       "image": "hiatus_white.jpg",
       "text": "Hospitality Partner",
-      "imageWidth": ""
+      "imageWidth": "150"
     },
     {
       "name": "Delhi Technological University",
@@ -65,7 +65,7 @@
       "name": "ITH Technologies",
       "image": "ith_tech.png",
       "text": "Support Partner",
-      "imageWidth": ""
+      "imageWidth": "150"
     }
 
 

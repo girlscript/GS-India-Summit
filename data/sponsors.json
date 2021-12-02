@@ -4,45 +4,45 @@
   "list": [
     {
       "name": "Microsoft",
-      "image": "microsoft.png",
+      "image": "microsoft.jpeg",
       "text": "Title Sponsor-Hackathon",
-      "imageWidth": "300"
+      "imageWidth": "150"
     },
     {
       "name": "HCL",
       "image": "HCL-Technologies-Logo.jpg",
       "text": "Title Sponsor-Hackathon",
-      "imageWidth": "300"
+      "imageWidth": "150"
     },
     {
       "name": "Linode",
       "image": "linode_png.png",
       "text": "Silver Sponsor",
-      "imageWidth": "300"
+      "imageWidth": "150"
     },
     {
       "name": "Gojek",
       "image": "gojek_just.png",
       "text": "Bronze Sponsor",
-      "imageWidth": "300"
+      "imageWidth": "150"
     },
     {
       "name": "Buildkite",
       "image": "buildkite.png",
       "text": "Bronze Sponsor",
-      "imageWidth": "120"
+      "imageWidth": "150"
     },
     {
       "name": "Elastic",
       "image": "elastic_white_new.png",
       "text": "Bronze Sponsor",
-      "imageWidth": "300"
+      "imageWidth": "150"
     },
     {
       "name": "Hasura",
       "image": "hasura_final1.svg",
       "text": "Bronze Sponsor",
-      "imageWidth": "500"
+      "imageWidth": "150"
     }
   ]
 }

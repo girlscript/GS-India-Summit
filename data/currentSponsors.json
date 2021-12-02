@@ -13,21 +13,21 @@
         "image": "stickermule.png",
         "link": "https://mule.to/p29k",
         "text": "Schwags Partner (Regional Summit)",
-        "imageWidth": "130"
+        "imageWidth": "150"
       },
       {
         "name": "KonfHub",
         "image": "konfhub.jpg",
         "link": "",
         "text": "Ticketing Partner",
-        "imageWidth": "170"
+        "imageWidth": "150"
       },
       {
         "name": "Microsoft",
         "image": "microsoft.jpeg",
         "link": "",
         "text": "Learning Partner",
-        "imageWidth": "120"
+        "imageWidth": "150"
       }
     ]
   }

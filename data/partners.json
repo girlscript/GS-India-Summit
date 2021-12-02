@@ -6,7 +6,7 @@
         "name": "KonfHub",
         "image": "konfhub.jpg",
         "text": "Ticketing Partner",
-        "imageWidth": ""
+        "imageWidth": "150"
       }
     ]
   },
@@ -16,19 +16,19 @@
       "name": "Tortenschneiderei",
       "image": "food.png",
       "text": "Support Partner",
-      "imageWidth": ""
+      "imageWidth": "150"
     },
     {
       "name": "O'REILLY",
       "image": "oreilly.jpg",
       "text": "Online Learning Partner",
-      "imageWidth": ""
+      "imageWidth": "150"
     },
     {
       "name": "Townscript",
       "image": "townscript.png",
       "text": "Ticketing Partner",
-      "imageWidth": "240"
+      "imageWidth": "150"
     },
     {
       "name": "O-Genie",
@@ -40,7 +40,7 @@
       "name": "Crowdpouch",
       "image": "pund_png1.jpeg",
       "text": "Fund Raising Partner",
-      "imageWidth": "600"
+      "imageWidth": "150"
     },
     {
       "name": "Zebronics",
