@@ -28,6 +28,20 @@
         "link": "",
         "text": "Learning Partner",
         "imageWidth": "150"
+      },
+      {
+        "name": "Rosenfeld",
+        "image": "rosenfeld.png",
+        "link": "https://rosenfeldmedia.com",
+        "text": "Reward Partners",
+        "imageWidth": "150"
+      },
+      {
+        "name": "Taskade",
+        "image": "taskade.png",
+        "link": "https://www.taskade.com",
+        "text": "Reward Partners",
+        "imageWidth": "150"
       }
     ]
   }
