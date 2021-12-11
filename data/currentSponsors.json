@@ -33,14 +33,21 @@
         "name": "Rosenfeld",
         "image": "rosenfeld.png",
         "link": "https://rosenfeldmedia.com",
-        "text": "Reward Partners",
+        "text": "Reward Partner",
         "imageWidth": "150"
       },
       {
         "name": "Taskade",
         "image": "taskade.png",
         "link": "https://www.taskade.com",
-        "text": "Reward Partners",
+        "text": "Reward Partner",
+        "imageWidth": "150"
+      },
+      {
+        "name": "Sketch",
+        "image": "sketch.png",
+        "link": "https://www.sketch.com/about-us/#press",
+        "text": "Reward Partner",
         "imageWidth": "150"
       }
     ]
