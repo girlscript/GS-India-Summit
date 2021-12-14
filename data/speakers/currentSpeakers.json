@@ -2,6 +2,62 @@
   "heading": "Present Speakers",
   "list": [
     {
+      "name": "Anissa Sefsaf",
+      "position": "Solution Sales For Analytics",
+      "company": "PROXIMUS",
+      "image": "AnishaSensaf.jpeg",
+      "linkedIn": "https://www.linkedin.com/in/anissa-sefsaf-41a283134/"
+    },
+    {
+      "name": "Al Morris",
+      "position": "Chief Architect & Co-Founder",
+      "company": "KOII NETWORK",
+      "image": "AlMorris.jpeg",
+      "linkedIn": "https://www.linkedin.com/in/alexanderdmorris/"
+    },
+    {
+      "name": "Abhinay Khoparzi",
+      "position": "Co-founder/Instigator",
+      "company": "ALGORAVE IDNIA",
+      "image": "AbhinayKhoparzi.jpeg",
+      "linkedIn": "https://www.linkedin.com/in/khoparzi/"
+    },
+    {
+      "name": "Navendu Sharma",
+      "position": "Director Of Product Management",
+      "company": "FLIPKART",
+      "image": "NavenduSharma.jpeg",
+      "linkedIn": "https://www.linkedin.com/in/navendusharma/"
+    },
+    {
+      "name": "Kavita Gupta",
+      "position": "Personal Branding Strategist & Consultant, Content Writer, Marketing manager",
+      "company": "LinkedIn Self Branding",
+      "image": "KavitaGupta.jpeg",
+      "linkedIn": "https://www.linkedin.com/in/brandedkavita/"
+    },
+    {
+      "name": "Rohini Gaonkar",
+      "position": "Sr. Developer Advocate",
+      "company": "AWS",
+      "image": "RohiniGaonkar.png",
+      "linkedIn": "https://www.linkedin.com/in/rohinigaonkar/"
+    },
+    {
+      "name": "Amya Madan",
+      "position": "Founder Of Ecrivons",
+      "company": "ECRIVONS",
+      "image": "AmyaMadan.jpeg",
+      "linkedIn": "https://www.linkedin.com/in/amya-madan-0912am1/"
+    },
+    {
+      "name": "Rahul Dev",
+      "position": "DevSecOps Engineer",
+      "company": "PAYTM",
+      "image": "RahulDev.jpeg",
+      "linkedIn": "https://www.linkedin.com/in/rahuldevvv/"
+    },
+    {
       "name": "Tanay Pratap",
       "position": "Engineer & Tech Influencer",
       "company": "MICROSOFT",
