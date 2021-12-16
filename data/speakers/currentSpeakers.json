@@ -2,11 +2,11 @@
   "heading": "Present Speakers",
   "list": [
     {
-      "name": "Anissa Sefsaf",
-      "position": "Solution Sales For Analytics",
-      "company": "PROXIMUS",
-      "image": "AnishaSensaf.jpeg",
-      "linkedIn": "https://www.linkedin.com/in/anissa-sefsaf-41a283134/"
+      "name": "Radhika Batra",
+      "position": "Founder and President",
+      "company": "Every Infant Matters",
+      "image": "RadhikaBatra.jpeg",
+      "linkedIn": "https://www.linkedin.com/in/radhika-batra-76914317b/"
     },
     {
       "name": "Al Morris",
@@ -14,6 +14,54 @@
       "company": "KOII NETWORK",
       "image": "AlMorris.jpeg",
       "linkedIn": "https://www.linkedin.com/in/alexanderdmorris/"
+    },
+    {
+      "name": "Pooja Kaul",
+      "position": "Founder",
+      "company": "Organiko Beautifying Life",
+      "image": "PoojaKaul.jpeg",
+      "linkedIn": "https://www.linkedin.com/in/poojakaul09/"
+    },
+    {
+      "name": "Dipanshu Parashar",
+      "position": "Founder",
+      "company": "Virtual Cyber Labs",
+      "image": "DipanshuParashar.jpeg",
+      "linkedIn": "https://www.linkedin.com/in/dipanshu-parashar/"
+    },
+    {
+      "name": "Amya Madan",
+      "position": "Founder Of Ecrivons",
+      "company": "ECRIVONS",
+      "image": "AmyaMadan.jpeg",
+      "linkedIn": "https://www.linkedin.com/in/amya-madan-0912am1/"
+    },
+    {
+      "name": "Parth Anand",
+      "position": "Augmented Reality, EverythingXR, YouTuber, Instructor At LinkedIn Learning & Udemy",
+      "company": "EVERYTHINGXR",
+      "image": "ParthAnand.jpeg",
+      "linkedIn": "https://www.linkedin.com/in/parthanand/"
+    },
+    {
+      "name": "Kamal Shree",
+      "position": "Future Is Open Source",
+      "company": "PROXIMUS",
+      "image": "KamalShree.jpeg"
+    },
+    {
+      "name": "Karan Singh",
+      "position": "Sr. Principal Architect & Developer Evangelist Red Hat Developer & Tools BU",
+      "company": "RED HAT",
+      "image": "KaranSingh.png",
+      "linkedIn": "https://www.linkedin.com/in/karansingh7/"
+    },
+    {
+      "name": "Anissa Sefsaf",
+      "position": "Solution Sales For Analytics",
+      "company": "PROXIMUS",
+      "image": "AnishaSensaf.jpeg",
+      "linkedIn": "https://www.linkedin.com/in/anissa-sefsaf-41a283134/"
     },
     {
       "name": "Abhinay Khoparzi",
@@ -42,13 +90,6 @@
       "company": "AWS",
       "image": "RohiniGaonkar.png",
       "linkedIn": "https://www.linkedin.com/in/rohinigaonkar/"
-    },
-    {
-      "name": "Amya Madan",
-      "position": "Founder Of Ecrivons",
-      "company": "ECRIVONS",
-      "image": "AmyaMadan.jpeg",
-      "linkedIn": "https://www.linkedin.com/in/amya-madan-0912am1/"
     },
     {
       "name": "Rahul Dev",
