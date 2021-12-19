@@ -49,6 +49,20 @@
         "link": "https://www.sketch.com/about-us/#press",
         "text": "Reward Partner",
         "imageWidth": "150"
+      },
+      {
+        "name": "Ecrivons",
+        "image": "Ecrivons.jpeg",
+        "link": "",
+        "text": "Creativity Partner",
+        "imageWidth": "150"
+      },
+      {
+        "name": "Roostoo",
+        "image": "Roostoo.jpeg",
+        "link": "",
+        "text": "Crypto Event Partner",
+        "imageWidth": "150"
       }
     ]
   }
